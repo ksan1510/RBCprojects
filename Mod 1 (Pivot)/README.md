@@ -10,5 +10,5 @@ Analysis of 4,000 Kickstarter projects to observe market trends. (2009-2017)
      * Pivot chart line to visualize
  
 ------docx-------
-Conclusions and limitations
-further observation possibilities 
+* Conclusions and limitations
+* Further observation possibilities 
