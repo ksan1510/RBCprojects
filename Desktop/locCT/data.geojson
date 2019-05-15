@@ -1,0 +1,9053 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Bregenz",
+    "State": "",
+    "Zip": "6900",
+    "Country": "AUT",
+    "Latitude": "47.5038",
+    "Longitude": "9.74368",
+    "Location": [
+    47.5038,
+    9.74368
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    9.74368,
+    47.5038
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Innsbruck",
+    "State": "",
+    "Zip": "6020",
+    "Country": "AUT",
+    "Latitude": "47.268",
+    "Longitude": "11.3913",
+    "Location": [
+    47.268,
+    11.3913
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    11.3913,
+    47.268
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Univ Klinik Fuer Kinder-und Jugendheilkunde",
+    "City": "Innsbruck",
+    "State": "",
+    "Zip": "6020",
+    "Country": "AUT",
+    "Latitude": "47.268",
+    "Longitude": "11.3913",
+    "Location": [
+    47.268,
+    11.3913
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    11.3913,
+    47.268
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Univ Klinik Fuer Kinder-und Jugendheilkunde",
+    "City": "Innsbruck",
+    "State": "",
+    "Zip": "6020",
+    "Country": "AUT",
+    "Latitude": "47.268",
+    "Longitude": "11.3913",
+    "Location": [
+    47.268,
+    11.3913
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    11.3913,
+    47.268
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Botucatu",
+    "State": "",
+    "Zip": "18607-741",
+    "Country": "BRA",
+    "Latitude": "-22.8905",
+    "Longitude": "-48.45621",
+    "Location": [
+    -22.8905,
+    -48.45621
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -48.45621,
+    -22.8905
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Campinas",
+    "State": "",
+    "Zip": "13106-028",
+    "Country": "BRA",
+    "Latitude": "-22.90902",
+    "Longitude": "-47.06461",
+    "Location": [
+    -22.90902,
+    -47.06461
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -47.06461,
+    -22.90902
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Rio de Janeiro",
+    "State": "",
+    "Zip": "20040-009",
+    "Country": "BRA",
+    "Latitude": "-22.91216",
+    "Longitude": "-43.17501",
+    "Location": [
+    -22.91216,
+    -43.17501
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -43.17501,
+    -22.91216
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Sao Paulo",
+    "State": "",
+    "Zip": "01310-100",
+    "Country": "BRA",
+    "Latitude": "-23.56287",
+    "Longitude": "-46.65469",
+    "Location": [
+    -23.56287,
+    -46.65469
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -46.65469,
+    -23.56287
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Botucatu",
+    "State": "",
+    "Zip": "18607-741",
+    "Country": "BRA",
+    "Latitude": "-22.8905",
+    "Longitude": "-48.45621",
+    "Location": [
+    -22.8905,
+    -48.45621
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -48.45621,
+    -22.8905
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Campinas",
+    "State": "",
+    "Zip": "13106-028",
+    "Country": "BRA",
+    "Latitude": "-22.90902",
+    "Longitude": "-47.06461",
+    "Location": [
+    -22.90902,
+    -47.06461
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -47.06461,
+    -22.90902
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Rio de Janeiro",
+    "State": "",
+    "Zip": "20040-009",
+    "Country": "BRA",
+    "Latitude": "-22.91216",
+    "Longitude": "-43.17501",
+    "Location": [
+    -22.91216,
+    -43.17501
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -43.17501,
+    -22.91216
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "SÃ£o Paulo",
+    "State": "",
+    "Zip": "01310-100",
+    "Country": "BRA",
+    "Latitude": "-23.56287",
+    "Longitude": "-46.65469",
+    "Location": [
+    -23.56287,
+    -46.65469
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -46.65469,
+    -23.56287
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Botucatu",
+    "State": "",
+    "Zip": "18607-741",
+    "Country": "BRA",
+    "Latitude": "-22.8905",
+    "Longitude": "-48.45621",
+    "Location": [
+    -22.8905,
+    -48.45621
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -48.45621,
+    -22.8905
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Campinas",
+    "State": "",
+    "Zip": "13106-028",
+    "Country": "BRA",
+    "Latitude": "-22.90902",
+    "Longitude": "-47.06461",
+    "Location": [
+    -22.90902,
+    -47.06461
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -47.06461,
+    -22.90902
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Rio de Janeiro",
+    "State": "",
+    "Zip": "20040-009",
+    "Country": "BRA",
+    "Latitude": "-22.91216",
+    "Longitude": "-43.17501",
+    "Location": [
+    -22.91216,
+    -43.17501
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -43.17501,
+    -22.91216
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "SÃ£o Paulo",
+    "State": "",
+    "Zip": "01310-100",
+    "Country": "BRA",
+    "Latitude": "-23.56287",
+    "Longitude": "-46.65469",
+    "Location": [
+    -23.56287,
+    -46.65469
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -46.65469,
+    -23.56287
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Halifax",
+    "State": "Nova",
+    "Zip": "B3J",
+    "Country": "CAN",
+    "Latitude": "44.64549",
+    "Longitude": "-63.57655",
+    "Location": [
+    44.64549,
+    -63.57655
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -63.57655,
+    44.64549
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Toronto",
+    "State": "Ontario",
+    "Zip": "M5H",
+    "Country": "CAN",
+    "Latitude": "43.6487",
+    "Longitude": "-79.38545",
+    "Location": [
+    43.6487,
+    -79.38545
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -79.38545,
+    43.6487
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Vancouver",
+    "State": "British Columbia",
+    "Zip": "V5Y",
+    "Country": "CAN",
+    "Latitude": "49.26039",
+    "Longitude": "-123.11336",
+    "Location": [
+    49.26039,
+    -123.11336
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -123.11336,
+    49.26039
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "IWK Health Centre",
+    "City": "Halifax",
+    "State": "Nova Scotia",
+    "Zip": "B3J",
+    "Country": "CAN",
+    "Latitude": "44.64549",
+    "Longitude": "-63.57655",
+    "Location": [
+    44.64549,
+    -63.57655
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -63.57655,
+    44.64549
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "The Montreal Children's Hospital",
+    "City": "Montreal",
+    "State": "Quebec",
+    "Zip": "H2L",
+    "Country": "CAN",
+    "Latitude": "45.51241",
+    "Longitude": "-73.55469",
+    "Location": [
+    45.51241,
+    -73.55469
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -73.55469,
+    45.51241
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital for Sick Children",
+    "City": "Toronto",
+    "State": "Ontario",
+    "Zip": "M5H",
+    "Country": "CAN",
+    "Latitude": "43.6487",
+    "Longitude": "-79.38545",
+    "Location": [
+    43.6487,
+    -79.38545
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -79.38545,
+    43.6487
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "British Columbia Children's Hospital",
+    "City": "Vancouver",
+    "State": "British Columbia",
+    "Zip": "V5Y",
+    "Country": "CAN",
+    "Latitude": "49.26039",
+    "Longitude": "-123.11336",
+    "Location": [
+    49.26039,
+    -123.11336
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -123.11336,
+    49.26039
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "IWK Health Centre",
+    "City": "Halifax",
+    "State": "Nova Scotia",
+    "Zip": "B3J",
+    "Country": "CAN",
+    "Latitude": "44.64549",
+    "Longitude": "-63.57655",
+    "Location": [
+    44.64549,
+    -63.57655
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -63.57655,
+    44.64549
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "The Montreal Children's Hospital",
+    "City": "Montreal",
+    "State": "Quebec",
+    "Zip": "H2L",
+    "Country": "CAN",
+    "Latitude": "45.51241",
+    "Longitude": "-73.55469",
+    "Location": [
+    45.51241,
+    -73.55469
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -73.55469,
+    45.51241
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital for Sick Children",
+    "City": "Toronto",
+    "State": "Ontario",
+    "Zip": "M5H",
+    "Country": "CAN",
+    "Latitude": "43.6487",
+    "Longitude": "-79.38545",
+    "Location": [
+    43.6487,
+    -79.38545
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -79.38545,
+    43.6487
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "British Columbia Children's Hospital",
+    "City": "Vancouver",
+    "State": "British Columbia",
+    "Zip": "V5Y",
+    "Country": "CAN",
+    "Latitude": "49.26039",
+    "Longitude": "-123.11336",
+    "Location": [
+    49.26039,
+    -123.11336
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -123.11336,
+    49.26039
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Montreal",
+    "State": "Quebec",
+    "Zip": "H2L",
+    "Country": "CAN",
+    "Latitude": "45.51241",
+    "Longitude": "-73.55469",
+    "Location": [
+    45.51241,
+    -73.55469
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -73.55469,
+    45.51241
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Skejby Sygehus, Aarhus University Hospital",
+    "City": "Aarhus",
+    "State": "",
+    "Zip": "8000",
+    "Country": "DNK",
+    "Latitude": "56.15302",
+    "Longitude": "10.20487",
+    "Location": [
+    56.15302,
+    10.20487
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    10.20487,
+    56.15302
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Skejby Sygehus, Aarhus University Hospital",
+    "City": "Aarhus",
+    "State": "",
+    "Zip": "8000",
+    "Country": "DNK",
+    "Latitude": "56.15302",
+    "Longitude": "10.20487",
+    "Location": [
+    56.15302,
+    10.20487
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    10.20487,
+    56.15302
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "CHU Estaing",
+    "City": "Clermont Ferrand",
+    "State": "",
+    "Zip": "63000",
+    "Country": "FRA",
+    "Latitude": "45.77668",
+    "Longitude": "3.07723",
+    "Location": [
+    45.77668,
+    3.07723
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    3.07723,
+    45.77668
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "UniversitÃ© Paris-Descartes, HÃ´pital Necker-Enfants Malades. Centre de rÃ©fÃ©rence national pour les Arthrites Juveniles",
+    "City": "Paris",
+    "State": "",
+    "Zip": "75001",
+    "Country": "FRA",
+    "Latitude": "48.85718",
+    "Longitude": "2.34141",
+    "Location": [
+    48.85718,
+    2.34141
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    2.34141,
+    48.85718
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "HÃ´pital des Enfants (CHU de Toulouse)",
+    "City": "Toulouse",
+    "State": "",
+    "Zip": "31000",
+    "Country": "FRA",
+    "Latitude": "43.60579",
+    "Longitude": "1.44864",
+    "Location": [
+    43.60579,
+    1.44864
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    1.44864,
+    43.60579
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "CHU Estaing",
+    "City": "Clermont Ferrand",
+    "State": "",
+    "Zip": "63000",
+    "Country": "FRA",
+    "Latitude": "45.77668",
+    "Longitude": "3.07723",
+    "Location": [
+    45.77668,
+    3.07723
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    3.07723,
+    45.77668
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "UniversitÃ© Paris-Descartes, HÃ´pital Necker-Enfants Malades. Centre de rÃ©fÃ©rence national pour les Arthrites Juveniles",
+    "City": "Paris",
+    "State": "",
+    "Zip": "75001",
+    "Country": "FRA",
+    "Latitude": "48.85718",
+    "Longitude": "2.34141",
+    "Location": [
+    48.85718,
+    2.34141
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    2.34141,
+    48.85718
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "HÃ´pital des Enfants (CHU de Toulouse)",
+    "City": "Toulouse",
+    "State": "",
+    "Zip": "31000",
+    "Country": "FRA",
+    "Latitude": "43.60579",
+    "Longitude": "1.44864",
+    "Location": [
+    43.60579,
+    1.44864
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    1.44864,
+    43.60579
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Bad Bramstedt",
+    "State": "",
+    "Zip": "24576",
+    "Country": "DEU",
+    "Latitude": "53.91862",
+    "Longitude": "9.88229",
+    "Location": [
+    53.91862,
+    9.88229
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    9.88229,
+    53.91862
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Berlin",
+    "State": "",
+    "Zip": "10117",
+    "Country": "DEU",
+    "Latitude": "52.51605",
+    "Longitude": "13.37691",
+    "Location": [
+    52.51605,
+    13.37691
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    13.37691,
+    52.51605
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Freiburg",
+    "State": "",
+    "Zip": "79098",
+    "Country": "DEU",
+    "Latitude": "47.99854",
+    "Longitude": "7.84965",
+    "Location": [
+    47.99854,
+    7.84965
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    7.84965,
+    47.99854
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Hamburg",
+    "State": "",
+    "Zip": "20354",
+    "Country": "DEU",
+    "Latitude": "53.55375",
+    "Longitude": "9.99183",
+    "Location": [
+    53.55375,
+    9.99183
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    9.99183,
+    53.55375
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Heidelberg",
+    "State": "",
+    "Zip": "69117",
+    "Country": "DEU",
+    "Latitude": "49.41349",
+    "Longitude": "8.70799",
+    "Location": [
+    49.41349,
+    8.70799
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    8.70799,
+    49.41349
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Sankt Augustin",
+    "State": "",
+    "Zip": "53757",
+    "Country": "DEU",
+    "Latitude": "50.77697",
+    "Longitude": "7.1892",
+    "Location": [
+    50.77697,
+    7.1892
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    7.1892,
+    50.77697
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "PRI Pediatric Rheumatology Research Institute GmbH",
+    "City": "Bad Bramstedt",
+    "State": "",
+    "Zip": "24576",
+    "Country": "DEU",
+    "Latitude": "53.91862",
+    "Longitude": "9.88229",
+    "Location": [
+    53.91862,
+    9.88229
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    9.88229,
+    53.91862
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Charite University Hospital Berlin Kinderklinik, Rheumatologie",
+    "City": "Berlin",
+    "State": "",
+    "Zip": "10117",
+    "Country": "DEU",
+    "Latitude": "52.51605",
+    "Longitude": "13.37691",
+    "Location": [
+    52.51605,
+    13.37691
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    13.37691,
+    52.51605
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Freiburg",
+    "State": "",
+    "Zip": "79098",
+    "Country": "DEU",
+    "Latitude": "47.99854",
+    "Longitude": "7.84965",
+    "Location": [
+    47.99854,
+    7.84965
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    7.84965,
+    47.99854
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Hamburg",
+    "State": "",
+    "Zip": "20354",
+    "Country": "DEU",
+    "Latitude": "53.55375",
+    "Longitude": "9.99183",
+    "Location": [
+    53.55375,
+    9.99183
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    9.99183,
+    53.55375
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Heidelberg",
+    "State": "",
+    "Zip": "69117",
+    "Country": "DEU",
+    "Latitude": "49.41349",
+    "Longitude": "8.70799",
+    "Location": [
+    49.41349,
+    8.70799
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    8.70799,
+    49.41349
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Sankt Augustin",
+    "State": "",
+    "Zip": "53757",
+    "Country": "DEU",
+    "Latitude": "50.77697",
+    "Longitude": "7.1892",
+    "Location": [
+    50.77697,
+    7.1892
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    7.1892,
+    50.77697
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "PRI Pediatric Rheumatology Research Institute GmbH",
+    "City": "Bad Bramstedt",
+    "State": "",
+    "Zip": "24576",
+    "Country": "DEU",
+    "Latitude": "53.91862",
+    "Longitude": "9.88229",
+    "Location": [
+    53.91862,
+    9.88229
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    9.88229,
+    53.91862
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Charite University Hospital Berlin Kinderklinik, Rheumatologie",
+    "City": "Berlin",
+    "State": "",
+    "Zip": "10117",
+    "Country": "DEU",
+    "Latitude": "52.51605",
+    "Longitude": "13.37691",
+    "Location": [
+    52.51605,
+    13.37691
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    13.37691,
+    52.51605
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Freiburg",
+    "State": "",
+    "Zip": "79098",
+    "Country": "DEU",
+    "Latitude": "47.99854",
+    "Longitude": "7.84965",
+    "Location": [
+    47.99854,
+    7.84965
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    7.84965,
+    47.99854
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Hamburg",
+    "State": "",
+    "Zip": "20354",
+    "Country": "DEU",
+    "Latitude": "53.55375",
+    "Longitude": "9.99183",
+    "Location": [
+    53.55375,
+    9.99183
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    9.99183,
+    53.55375
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Heidelberg",
+    "State": "",
+    "Zip": "69117",
+    "Country": "DEU",
+    "Latitude": "49.41349",
+    "Longitude": "8.70799",
+    "Location": [
+    49.41349,
+    8.70799
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    8.70799,
+    49.41349
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Sankt Augustin",
+    "State": "",
+    "Zip": "53757",
+    "Country": "DEU",
+    "Latitude": "50.77697",
+    "Longitude": "7.1892",
+    "Location": [
+    50.77697,
+    7.1892
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    7.1892,
+    50.77697
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Aristotle University of Thessaloniki - Ippokration General Hospital",
+    "City": "Thessaloniki",
+    "State": "",
+    "Zip": "546 30",
+    "Country": "GRC",
+    "Latitude": "40.63957",
+    "Longitude": "22.9371",
+    "Location": [
+    40.63957,
+    22.9371
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    22.9371,
+    40.63957
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Aristotle University of Thessaloniki - Ippokration General Hospital",
+    "City": "Thessaloniki",
+    "State": "",
+    "Zip": "546 30",
+    "Country": "GRC",
+    "Latitude": "40.63957",
+    "Longitude": "22.9371",
+    "Location": [
+    40.63957,
+    22.9371
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    22.9371,
+    40.63957
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "National Institute of Rheumatology and Physiotherapy",
+    "City": "Budapest",
+    "State": "",
+    "Zip": "1061",
+    "Country": "HUN",
+    "Latitude": "47.49973",
+    "Longitude": "19.05508",
+    "Location": [
+    47.49973,
+    19.05508
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    19.05508,
+    47.49973
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "National Institute of Rheumatology and Physiotherapy",
+    "City": "Budapest",
+    "State": "",
+    "Zip": "1061",
+    "Country": "HUN",
+    "Latitude": "47.49973",
+    "Longitude": "19.05508",
+    "Location": [
+    47.49973,
+    19.05508
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    19.05508,
+    47.49973
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Firenze",
+    "State": "",
+    "Zip": "50129",
+    "Country": "ITA",
+    "Latitude": "43.78237",
+    "Longitude": "11.255",
+    "Location": [
+    43.78237,
+    11.255
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    11.255,
+    43.78237
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Genova",
+    "State": "",
+    "Zip": "16122",
+    "Country": "ITA",
+    "Latitude": "44.4104",
+    "Longitude": "8.93898",
+    "Location": [
+    44.4104,
+    8.93898
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    8.93898,
+    44.4104
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Napoli",
+    "State": "",
+    "Zip": "80133",
+    "Country": "ITA",
+    "Latitude": "40.84015",
+    "Longitude": "14.25226",
+    "Location": [
+    40.84015,
+    14.25226
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    14.25226,
+    40.84015
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Padova",
+    "State": "",
+    "Zip": "35139",
+    "Country": "ITA",
+    "Latitude": "45.40944",
+    "Longitude": "11.87172",
+    "Location": [
+    45.40944,
+    11.87172
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    11.87172,
+    45.40944
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Pisa",
+    "State": "",
+    "Zip": "56125",
+    "Country": "ITA",
+    "Latitude": "43.70996",
+    "Longitude": "10.39946",
+    "Location": [
+    43.70996,
+    10.39946
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    10.39946,
+    43.70996
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Torino",
+    "State": "",
+    "Zip": "10123",
+    "Country": "ITA",
+    "Latitude": "45.06236",
+    "Longitude": "7.67994",
+    "Location": [
+    45.06236,
+    7.67994
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    7.67994,
+    45.06236
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Azienda Ospedaliero-Universitaria Meyer",
+    "City": "Firenze",
+    "State": "",
+    "Zip": "50129",
+    "Country": "ITA",
+    "Latitude": "43.78237",
+    "Longitude": "11.255",
+    "Location": [
+    43.78237,
+    11.255
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    11.255,
+    43.78237
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "IRCCS Istituto G. Gaslini, UniversitÃ  di Genova",
+    "City": "Genova",
+    "State": "",
+    "Zip": "16122",
+    "Country": "ITA",
+    "Latitude": "44.4104",
+    "Longitude": "8.93898",
+    "Location": [
+    44.4104,
+    8.93898
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    8.93898,
+    44.4104
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Seconda Universita' degli Studi di Napoli Dipartimento di Pediatria F.Fede Via L. De Crecchio 4",
+    "City": "Napoli",
+    "State": "",
+    "Zip": "80133",
+    "Country": "ITA",
+    "Latitude": "40.84015",
+    "Longitude": "14.25226",
+    "Location": [
+    40.84015,
+    14.25226
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    14.25226,
+    40.84015
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Clinica Pediatrica I",
+    "City": "Padova",
+    "State": "",
+    "Zip": "35139",
+    "Country": "ITA",
+    "Latitude": "45.40944",
+    "Longitude": "11.87172",
+    "Location": [
+    45.40944,
+    11.87172
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    11.87172,
+    45.40944
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Ospedale Santa Chiara, UniversitÃ  di Pisa",
+    "City": "Pisa",
+    "State": "",
+    "Zip": "56125",
+    "Country": "ITA",
+    "Latitude": "43.70996",
+    "Longitude": "10.39946",
+    "Location": [
+    43.70996,
+    10.39946
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    10.39946,
+    43.70996
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Clinica Pediatrica Universita' di Torino",
+    "City": "Torino",
+    "State": "",
+    "Zip": "10123",
+    "Country": "ITA",
+    "Latitude": "45.06236",
+    "Longitude": "7.67994",
+    "Location": [
+    45.06236,
+    7.67994
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    7.67994,
+    45.06236
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Azienda Ospedaliero-Universitaria Meyer",
+    "City": "Firenze",
+    "State": "",
+    "Zip": "50129",
+    "Country": "ITA",
+    "Latitude": "43.78237",
+    "Longitude": "11.255",
+    "Location": [
+    43.78237,
+    11.255
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    11.255,
+    43.78237
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "IRCCS Istituto G. Gaslini, UniversitÃ  di Genova",
+    "City": "Genova",
+    "State": "",
+    "Zip": "16122",
+    "Country": "ITA",
+    "Latitude": "44.4104",
+    "Longitude": "8.93898",
+    "Location": [
+    44.4104,
+    8.93898
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    8.93898,
+    44.4104
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Seconda Universita' degli Studi di Napoli Dipartimento di Pediatria F.Fede Via L. De Crecchio 4",
+    "City": "Napoli",
+    "State": "",
+    "Zip": "80133",
+    "Country": "ITA",
+    "Latitude": "40.84015",
+    "Longitude": "14.25226",
+    "Location": [
+    40.84015,
+    14.25226
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    14.25226,
+    40.84015
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Clinica Pediatrica I",
+    "City": "Padova",
+    "State": "",
+    "Zip": "35139",
+    "Country": "ITA",
+    "Latitude": "45.40944",
+    "Longitude": "11.87172",
+    "Location": [
+    45.40944,
+    11.87172
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    11.87172,
+    45.40944
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Ospedale Santa Chiara, UniversitÃ  di Pisa",
+    "City": "Pisa",
+    "State": "",
+    "Zip": "56125",
+    "Country": "ITA",
+    "Latitude": "43.70996",
+    "Longitude": "10.39946",
+    "Location": [
+    43.70996,
+    10.39946
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    10.39946,
+    43.70996
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Clinica Pediatrica Universita' di Torino",
+    "City": "Torino",
+    "State": "",
+    "Zip": "10123",
+    "Country": "ITA",
+    "Latitude": "45.06236",
+    "Longitude": "7.67994",
+    "Location": [
+    45.06236,
+    7.67994
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    7.67994,
+    45.06236
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Riga",
+    "State": "",
+    "Zip": "1050",
+    "Country": "LVA",
+    "Latitude": "56.94599",
+    "Longitude": "24.11487",
+    "Location": [
+    56.94599,
+    24.11487
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    24.11487,
+    56.94599
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Riga",
+    "State": "",
+    "Zip": "1050",
+    "Country": "LVA",
+    "Latitude": "56.94599",
+    "Longitude": "24.11487",
+    "Location": [
+    56.94599,
+    24.11487
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    24.11487,
+    56.94599
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Guadalajara",
+    "State": "",
+    "Zip": "44100",
+    "Country": "MEX",
+    "Latitude": "20.68758",
+    "Longitude": "-103.35104",
+    "Location": [
+    20.68758,
+    -103.35104
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -103.35104,
+    20.68758
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Guadalajara",
+    "State": "",
+    "Zip": "44100",
+    "Country": "MEX",
+    "Latitude": "20.68758",
+    "Longitude": "-103.35104",
+    "Location": [
+    20.68758,
+    -103.35104
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -103.35104,
+    20.68758
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Guadalajara",
+    "State": "",
+    "Zip": "44100",
+    "Country": "MEX",
+    "Latitude": "20.68758",
+    "Longitude": "-103.35104",
+    "Location": [
+    20.68758,
+    -103.35104
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -103.35104,
+    20.68758
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "ErasmusMC Sophia Childrens Hospital",
+    "City": "Rotterdam",
+    "State": "",
+    "Zip": "3012",
+    "Country": "NLD",
+    "Latitude": "51.92283",
+    "Longitude": "4.47848",
+    "Location": [
+    51.92283,
+    4.47848
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    4.47848,
+    51.92283
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Wilhelmina Kinderziekenhuis",
+    "City": "Utrecht",
+    "State": "",
+    "Zip": "3511",
+    "Country": "NLD",
+    "Latitude": "52.08966",
+    "Longitude": "5.11436",
+    "Location": [
+    52.08966,
+    5.11436
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5.11436,
+    52.08966
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "ErasmusMC Sophia Childrens Hospital",
+    "City": "Rotterdam",
+    "State": "",
+    "Zip": "3012",
+    "Country": "NLD",
+    "Latitude": "51.92283",
+    "Longitude": "4.47848",
+    "Location": [
+    51.92283,
+    4.47848
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    4.47848,
+    51.92283
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Wilhelmina Kinderziekenhuis",
+    "City": "Utrecht",
+    "State": "",
+    "Zip": "3511",
+    "Country": "NLD",
+    "Latitude": "52.08966",
+    "Longitude": "5.11436",
+    "Location": [
+    52.08966,
+    5.11436
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5.11436,
+    52.08966
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Tromso",
+    "State": "",
+    "Zip": "9008",
+    "Country": "NOR",
+    "Latitude": "69.65103",
+    "Longitude": "18.95575",
+    "Location": [
+    69.65103,
+    18.95575
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    18.95575,
+    69.65103
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "University Hospital of Northern Norway",
+    "City": "Tromso",
+    "State": "",
+    "Zip": "9008",
+    "Country": "NOR",
+    "Latitude": "69.65103",
+    "Longitude": "18.95575",
+    "Location": [
+    69.65103,
+    18.95575
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    18.95575,
+    69.65103
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "St. Olavs Hospital, Universitetssykehuset i Trondheim",
+    "City": "Trondheim",
+    "State": "",
+    "Zip": "7011",
+    "Country": "NOR",
+    "Latitude": "63.43101",
+    "Longitude": "10.39211",
+    "Location": [
+    63.43101,
+    10.39211
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    10.39211,
+    63.43101
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "University Hospital of Northern Norway",
+    "City": "Tromso",
+    "State": "",
+    "Zip": "9008",
+    "Country": "NOR",
+    "Latitude": "69.65103",
+    "Longitude": "18.95575",
+    "Location": [
+    69.65103,
+    18.95575
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    18.95575,
+    69.65103
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "St. Olavs Hospital, Universitetssykehuset i Trondheim",
+    "City": "Trondheim",
+    "State": "",
+    "Zip": "7011",
+    "Country": "NOR",
+    "Latitude": "63.43101",
+    "Longitude": "10.39211",
+    "Location": [
+    63.43101,
+    10.39211
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    10.39211,
+    63.43101
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Clinica Anglo Americana",
+    "City": "Lima",
+    "State": "",
+    "Zip": "15001",
+    "Country": "PER",
+    "Latitude": "-12.05613",
+    "Longitude": "-77.0268",
+    "Location": [
+    -12.05613,
+    -77.0268
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -77.0268,
+    -12.05613
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Clinica Anglo Americana",
+    "City": "Lima",
+    "State": "",
+    "Zip": "15001",
+    "Country": "PER",
+    "Latitude": "-12.05613",
+    "Longitude": "-77.0268",
+    "Location": [
+    -12.05613,
+    -77.0268
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -77.0268,
+    -12.05613
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital Santa Maria",
+    "City": "Lisboa",
+    "State": "",
+    "Zip": "1050-115",
+    "Country": "PRT",
+    "Latitude": "38.72639",
+    "Longitude": "-9.14949",
+    "Location": [
+    38.72639,
+    -9.14949
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -9.14949,
+    38.72639
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital Santa Maria",
+    "City": "Lisboa",
+    "State": "",
+    "Zip": "1050-115",
+    "Country": "PRT",
+    "Latitude": "38.72639",
+    "Longitude": "-9.14949",
+    "Location": [
+    38.72639,
+    -9.14949
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -9.14949,
+    38.72639
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "San Juan",
+    "State": "",
+    "Zip": "",
+    "Country": "PRI",
+    "Latitude": "18.38475",
+    "Longitude": "-66.05481",
+    "Location": [
+    18.38475,
+    -66.05481
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -66.05481,
+    18.38475
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Centro de Reumatologia Pediatrico de Puerto Rico",
+    "City": "San Juan",
+    "State": "",
+    "Zip": "",
+    "Country": "PRI",
+    "Latitude": "18.38475",
+    "Longitude": "-66.05481",
+    "Location": [
+    18.38475,
+    -66.05481
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -66.05481,
+    18.38475
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Centro de Reumatologia Pediatrico de Puerto Rico",
+    "City": "San Juan",
+    "State": "",
+    "Zip": "",
+    "Country": "PRI",
+    "Latitude": "18.38475",
+    "Longitude": "-66.05481",
+    "Location": [
+    18.38475,
+    -66.05481
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -66.05481,
+    18.38475
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Spitalul Clinic de Urgenta pentru Copii",
+    "City": "Cluj-Napoca",
+    "State": "",
+    "Zip": "",
+    "Country": "ROU",
+    "Latitude": "46.76871",
+    "Longitude": "23.58497",
+    "Location": [
+    46.76871,
+    23.58497
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    23.58497,
+    46.76871
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Spitalul Clinic de Urgenta pentru Copii",
+    "City": "Cluj-Napoca",
+    "State": "",
+    "Zip": "",
+    "Country": "ROU",
+    "Latitude": "46.76871",
+    "Longitude": "23.58497",
+    "Location": [
+    46.76871,
+    23.58497
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    23.58497,
+    46.76871
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "State Institution Scientific Center of Children Health of Rams Moscow",
+    "City": "Moscow",
+    "State": "",
+    "Zip": "125009",
+    "Country": "RUS",
+    "Latitude": "55.75697",
+    "Longitude": "37.61502",
+    "Location": [
+    55.75697,
+    37.61502
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    37.61502,
+    55.75697
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "V.A. Nasonova Research Institute of Rheumatology, Pediatric Department",
+    "City": "Moscow",
+    "State": "",
+    "Zip": "125009",
+    "Country": "RUS",
+    "Latitude": "55.75697",
+    "Longitude": "37.61502",
+    "Location": [
+    55.75697,
+    37.61502
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    37.61502,
+    55.75697
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Institution of Higher Professional Education Rostov State Medical University of Ministry of Health of Russian Federation",
+    "City": "Rostov-na-donu",
+    "State": "",
+    "Zip": "344006",
+    "Country": "RUS",
+    "Latitude": "47.22691",
+    "Longitude": "39.71676",
+    "Location": [
+    47.22691,
+    39.71676
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    39.71676,
+    47.22691
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Saint-Petersburg State Pediatric Medical Academy",
+    "City": "Saint-Petersburg",
+    "State": "",
+    "Zip": "190000",
+    "Country": "RUS",
+    "Latitude": "59.93318",
+    "Longitude": "30.30605",
+    "Location": [
+    59.93318,
+    30.30605
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    30.30605,
+    59.93318
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Samara Regional Clinical Cordiological Hospital",
+    "City": "Samara",
+    "State": "",
+    "Zip": "443069",
+    "Country": "RUS",
+    "Latitude": "53.19171",
+    "Longitude": "50.19093",
+    "Location": [
+    53.19171,
+    50.19093
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    50.19093,
+    53.19171
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "State Institution Scientific Center of Children Health of Rams Moscow",
+    "City": "Moscow",
+    "State": "",
+    "Zip": "125009",
+    "Country": "RUS",
+    "Latitude": "55.75697",
+    "Longitude": "37.61502",
+    "Location": [
+    55.75697,
+    37.61502
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    37.61502,
+    55.75697
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "V.A. Nasonova Research Institute of Rheumatology, Pediatric Department",
+    "City": "Moscow",
+    "State": "",
+    "Zip": "125009",
+    "Country": "RUS",
+    "Latitude": "55.75697",
+    "Longitude": "37.61502",
+    "Location": [
+    55.75697,
+    37.61502
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    37.61502,
+    55.75697
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Institution of Higher Professional Education Rostov State Medical University of Ministry of Health of Russian Federation",
+    "City": "Rostov-na-donu",
+    "State": "",
+    "Zip": "344006",
+    "Country": "RUS",
+    "Latitude": "47.22691",
+    "Longitude": "39.71676",
+    "Location": [
+    47.22691,
+    39.71676
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    39.71676,
+    47.22691
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Saint-Petersburg State Pediatric Medical Academy",
+    "City": "Saint-Petersburg",
+    "State": "",
+    "Zip": "190000",
+    "Country": "RUS",
+    "Latitude": "59.93318",
+    "Longitude": "30.30605",
+    "Location": [
+    59.93318,
+    30.30605
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    30.30605,
+    59.93318
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Samara Regional Clinical Cordiological Hospital",
+    "City": "Samara",
+    "State": "",
+    "Zip": "443069",
+    "Country": "RUS",
+    "Latitude": "53.19171",
+    "Longitude": "50.19093",
+    "Location": [
+    53.19171,
+    50.19093
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    50.19093,
+    53.19171
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Jeddah",
+    "State": "",
+    "Zip": "22233",
+    "Country": "SAU",
+    "Latitude": "21.48172",
+    "Longitude": "39.1828",
+    "Location": [
+    21.48172,
+    39.1828
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    39.1828,
+    21.48172
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Riyadh",
+    "State": "",
+    "Zip": "12211",
+    "Country": "SAU",
+    "Latitude": "24.68218",
+    "Longitude": "46.68719",
+    "Location": [
+    24.68218,
+    46.68719
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    46.68719,
+    24.68218
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Jeddah",
+    "State": "",
+    "Zip": "22233",
+    "Country": "SAU",
+    "Latitude": "21.48172",
+    "Longitude": "39.1828",
+    "Location": [
+    21.48172,
+    39.1828
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    39.1828,
+    21.48172
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Riyadh",
+    "State": "",
+    "Zip": "12211",
+    "Country": "SAU",
+    "Latitude": "24.68218",
+    "Longitude": "46.68719",
+    "Location": [
+    24.68218,
+    46.68719
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    46.68719,
+    24.68218
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Piestany",
+    "State": "",
+    "Zip": "921 01",
+    "Country": "SVK",
+    "Latitude": "48.5879",
+    "Longitude": "17.8181",
+    "Location": [
+    48.5879,
+    17.8181
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    17.8181,
+    48.5879
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Piestany",
+    "State": "",
+    "Zip": "921 01",
+    "Country": "SVK",
+    "Latitude": "48.5879",
+    "Longitude": "17.8181",
+    "Location": [
+    48.5879,
+    17.8181
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    17.8181,
+    48.5879
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Panorama Medical Centre",
+    "City": "Cape Town",
+    "State": "",
+    "Zip": "8001",
+    "Country": "ZAF",
+    "Latitude": "-33.91909",
+    "Longitude": "18.42199",
+    "Location": [
+    -33.91909,
+    18.42199
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    18.42199,
+    -33.91909
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Clinical Research Unit",
+    "City": "Pretoria",
+    "State": "",
+    "Zip": "2",
+    "Country": "ZAF",
+    "Latitude": "-25.74587",
+    "Longitude": "28.18763",
+    "Location": [
+    -25.74587,
+    28.18763
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    28.18763,
+    -25.74587
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Emmed Research",
+    "City": "Pretoria",
+    "State": "",
+    "Zip": "2",
+    "Country": "ZAF",
+    "Latitude": "-25.74587",
+    "Longitude": "28.18763",
+    "Location": [
+    -25.74587,
+    28.18763
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    28.18763,
+    -25.74587
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Panorama Medical Centre",
+    "City": "Cape Town",
+    "State": "",
+    "Zip": "8001",
+    "Country": "ZAF",
+    "Latitude": "-33.91909",
+    "Longitude": "18.42199",
+    "Location": [
+    -33.91909,
+    18.42199
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    18.42199,
+    -33.91909
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Clinical Research Unit",
+    "City": "Pretoria",
+    "State": "",
+    "Zip": "2",
+    "Country": "ZAF",
+    "Latitude": "-25.74587",
+    "Longitude": "28.18763",
+    "Location": [
+    -25.74587,
+    28.18763
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    28.18763,
+    -25.74587
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Emmed Research",
+    "City": "Pretoria",
+    "State": "",
+    "Zip": "2",
+    "Country": "ZAF",
+    "Latitude": "-25.74587",
+    "Longitude": "28.18763",
+    "Location": [
+    -25.74587,
+    28.18763
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    28.18763,
+    -25.74587
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Barcelona",
+    "State": "",
+    "Zip": "8007",
+    "Country": "ESP",
+    "Latitude": "41.38804",
+    "Longitude": "2.17001",
+    "Location": [
+    41.38804,
+    2.17001
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    2.17001,
+    41.38804
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Barcelona",
+    "State": "",
+    "Zip": "8007",
+    "Country": "ESP",
+    "Latitude": "41.38804",
+    "Longitude": "2.17001",
+    "Location": [
+    41.38804,
+    2.17001
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    2.17001,
+    41.38804
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Esplugues (Barcelona)",
+    "State": "",
+    "Zip": "8034",
+    "Country": "ESP",
+    "Latitude": "41.3865",
+    "Longitude": "2.10571",
+    "Location": [
+    41.3865,
+    2.10571
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    2.10571,
+    41.3865
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Madrid",
+    "State": "",
+    "Zip": "28014",
+    "Country": "ESP",
+    "Latitude": "40.41956",
+    "Longitude": "-3.69196",
+    "Location": [
+    40.41956,
+    -3.69196
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -3.69196,
+    40.41956
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Murcia",
+    "State": "",
+    "Zip": "30004",
+    "Country": "ESP",
+    "Latitude": "37.98309",
+    "Longitude": "-1.13139",
+    "Location": [
+    37.98309,
+    -1.13139
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -1.13139,
+    37.98309
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Valencia",
+    "State": "",
+    "Zip": "46002",
+    "Country": "ESP",
+    "Latitude": "39.46895",
+    "Longitude": "-0.37686",
+    "Location": [
+    39.46895,
+    -0.37686
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -0.37686,
+    39.46895
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital Valle de Hebron",
+    "City": "Barcelona",
+    "State": "",
+    "Zip": "8007",
+    "Country": "ESP",
+    "Latitude": "41.38804",
+    "Longitude": "2.17001",
+    "Location": [
+    41.38804,
+    2.17001
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    2.17001,
+    41.38804
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital Sant Joan de Deu, Universitat de Barcelona",
+    "City": "Esplugues (Barcelona)",
+    "State": "",
+    "Zip": "8034",
+    "Country": "ESP",
+    "Latitude": "41.3865",
+    "Longitude": "2.10571",
+    "Location": [
+    41.3865,
+    2.10571
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    2.10571,
+    41.3865
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital Universitario La Paz",
+    "City": "Madrid",
+    "State": "",
+    "Zip": "28014",
+    "Country": "ESP",
+    "Latitude": "40.41956",
+    "Longitude": "-3.69196",
+    "Location": [
+    40.41956,
+    -3.69196
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -3.69196,
+    40.41956
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital ClÃ­nico Universitario Virgen de la Arrixaca",
+    "City": "Murcia",
+    "State": "",
+    "Zip": "30004",
+    "Country": "ESP",
+    "Latitude": "37.98309",
+    "Longitude": "-1.13139",
+    "Location": [
+    37.98309,
+    -1.13139
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -1.13139,
+    37.98309
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital Universitario La Fe",
+    "City": "Valencia",
+    "State": "",
+    "Zip": "46002",
+    "Country": "ESP",
+    "Latitude": "39.46895",
+    "Longitude": "-0.37686",
+    "Location": [
+    39.46895,
+    -0.37686
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -0.37686,
+    39.46895
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital Valle de Hebron",
+    "City": "Barcelona",
+    "State": "",
+    "Zip": "8007",
+    "Country": "ESP",
+    "Latitude": "41.38804",
+    "Longitude": "2.17001",
+    "Location": [
+    41.38804,
+    2.17001
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    2.17001,
+    41.38804
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital Sant Joan de Deu, Universitat de Barcelona",
+    "City": "Esplugues (Barcelona)",
+    "State": "",
+    "Zip": "8034",
+    "Country": "ESP",
+    "Latitude": "41.3865",
+    "Longitude": "2.10571",
+    "Location": [
+    41.3865,
+    2.10571
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    2.10571,
+    41.3865
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital Universitario La Paz",
+    "City": "Madrid",
+    "State": "",
+    "Zip": "28014",
+    "Country": "ESP",
+    "Latitude": "40.41956",
+    "Longitude": "-3.69196",
+    "Location": [
+    40.41956,
+    -3.69196
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -3.69196,
+    40.41956
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital ClÃ­nico Universitario Virgen de la Arrixaca",
+    "City": "Murcia",
+    "State": "",
+    "Zip": "30004",
+    "Country": "ESP",
+    "Latitude": "37.98309",
+    "Longitude": "-1.13139",
+    "Location": [
+    37.98309,
+    -1.13139
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -1.13139,
+    37.98309
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital Universitario La Fe",
+    "City": "Valencia",
+    "State": "",
+    "Zip": "46002",
+    "Country": "ESP",
+    "Latitude": "39.46895",
+    "Longitude": "-0.37686",
+    "Location": [
+    39.46895,
+    -0.37686
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -0.37686,
+    39.46895
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Bristol Royal Hospital for Children & Royal National Hospital for Rheumatic Diseases",
+    "City": "Bristol",
+    "State": "",
+    "Zip": "BS1 6",
+    "Country": "GBR",
+    "Latitude": "51.45379",
+    "Longitude": "-2.59168",
+    "Location": [
+    51.45379,
+    -2.59168
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -2.59168,
+    51.45379
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Bristol Royal Hospital for Children & Royal National Hospital for Rheumatic Diseases",
+    "City": "Bristol",
+    "State": "",
+    "Zip": "BS1 6",
+    "Country": "GBR",
+    "Latitude": "51.45379",
+    "Longitude": "-2.59168",
+    "Location": [
+    51.45379,
+    -2.59168
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -2.59168,
+    51.45379
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Augusta",
+    "State": "Georgia",
+    "Zip": "30901",
+    "Country": "USA",
+    "Latitude": "33.4793",
+    "Longitude": "-81.97522",
+    "Location": [
+    33.4793,
+    -81.97522
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -81.97522,
+    33.4793
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Austin",
+    "State": "Texas",
+    "Zip": "78701",
+    "Country": "USA",
+    "Latitude": "30.26759",
+    "Longitude": "-97.74299",
+    "Location": [
+    30.26759,
+    -97.74299
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -97.74299,
+    30.26759
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Charlotte",
+    "State": "North Carolina",
+    "Zip": "28202",
+    "Country": "USA",
+    "Latitude": "35.22287",
+    "Longitude": "-80.83796",
+    "Location": [
+    35.22287,
+    -80.83796
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -80.83796,
+    35.22287
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Zip": "60602",
+    "Country": "USA",
+    "Latitude": "41.88425",
+    "Longitude": "-87.63245",
+    "Location": [
+    41.88425,
+    -87.63245
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.63245,
+    41.88425
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Zip": "60602",
+    "Country": "USA",
+    "Latitude": "41.88425",
+    "Longitude": "-87.63245",
+    "Location": [
+    41.88425,
+    -87.63245
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.63245,
+    41.88425
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Cincinnati",
+    "State": "Ohio",
+    "Zip": "45202",
+    "Country": "USA",
+    "Latitude": "39.10713",
+    "Longitude": "-84.50413",
+    "Location": [
+    39.10713,
+    -84.50413
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -84.50413,
+    39.10713
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Cleveland",
+    "State": "Ohio",
+    "Zip": "44114",
+    "Country": "USA",
+    "Latitude": "41.50473",
+    "Longitude": "-81.69075",
+    "Location": [
+    41.50473,
+    -81.69075
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -81.69075,
+    41.50473
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Gainesville",
+    "State": "Florida",
+    "Zip": "32601",
+    "Country": "USA",
+    "Latitude": "29.65195",
+    "Longitude": "-82.32279",
+    "Location": [
+    29.65195,
+    -82.32279
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -82.32279,
+    29.65195
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Indianapolis",
+    "State": "Indiana",
+    "Zip": "46204",
+    "Country": "USA",
+    "Latitude": "39.76691",
+    "Longitude": "-86.14996",
+    "Location": [
+    39.76691,
+    -86.14996
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -86.14996,
+    39.76691
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Kansas",
+    "State": "Missouri",
+    "Zip": "64105",
+    "Country": "USA",
+    "Latitude": "39.10344",
+    "Longitude": "-94.58311",
+    "Location": [
+    39.10344,
+    -94.58311
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -94.58311,
+    39.10344
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Little Rock",
+    "State": "Arkansas",
+    "Zip": "72201",
+    "Country": "USA",
+    "Latitude": "34.74871",
+    "Longitude": "-92.27485",
+    "Location": [
+    34.74871,
+    -92.27485
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -92.27485,
+    34.74871
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Los Angeles",
+    "State": "California",
+    "Zip": "90012",
+    "Country": "USA",
+    "Latitude": "34.05349",
+    "Longitude": "-118.24532",
+    "Location": [
+    34.05349,
+    -118.24532
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -118.24532,
+    34.05349
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Milwaukee",
+    "State": "Wisconsin",
+    "Zip": "53202",
+    "Country": "USA",
+    "Latitude": "43.042",
+    "Longitude": "-87.90687",
+    "Location": [
+    43.042,
+    -87.90687
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.90687,
+    43.042
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Minneapolis",
+    "State": "Minnesota",
+    "Zip": "55415",
+    "Country": "USA",
+    "Latitude": "44.97902",
+    "Longitude": "-93.26494",
+    "Location": [
+    44.97902,
+    -93.26494
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -93.26494,
+    44.97902
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Nashville",
+    "State": "Tennessee",
+    "Zip": "37201",
+    "Country": "USA",
+    "Latitude": "36.16785",
+    "Longitude": "-86.77816",
+    "Location": [
+    36.16785,
+    -86.77816
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -86.77816,
+    36.16785
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Philadelphia",
+    "State": "Pennsylvania",
+    "Zip": "19107",
+    "Country": "USA",
+    "Latitude": "39.95223",
+    "Longitude": "-75.16218",
+    "Location": [
+    39.95223,
+    -75.16218
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -75.16218,
+    39.95223
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Philadelphia",
+    "State": "Pennsylvania",
+    "Zip": "19107",
+    "Country": "USA",
+    "Latitude": "39.95223",
+    "Longitude": "-75.16218",
+    "Location": [
+    39.95223,
+    -75.16218
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -75.16218,
+    39.95223
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Pittsburgh",
+    "State": "Pennsylvania",
+    "Zip": "15219",
+    "Country": "USA",
+    "Latitude": "40.43851",
+    "Longitude": "-79.99734",
+    "Location": [
+    40.43851,
+    -79.99734
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -79.99734,
+    40.43851
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Portland",
+    "State": "Oregon",
+    "Zip": "97201",
+    "Country": "USA",
+    "Latitude": "45.5118",
+    "Longitude": "-122.67563",
+    "Location": [
+    45.5118,
+    -122.67563
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.67563,
+    45.5118
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Saint Louis",
+    "State": "Missouri",
+    "Zip": "63103",
+    "Country": "USA",
+    "Latitude": "38.62775",
+    "Longitude": "-90.19956",
+    "Location": [
+    38.62775,
+    -90.19956
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -90.19956,
+    38.62775
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Salt Lake City",
+    "State": "Utah",
+    "Zip": "84111",
+    "Country": "USA",
+    "Latitude": "40.76031",
+    "Longitude": "-111.88822",
+    "Location": [
+    40.76031,
+    -111.88822
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -111.88822,
+    40.76031
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Georgia Regents University",
+    "City": "Augusta",
+    "State": "Georgia",
+    "Zip": "30901",
+    "Country": "USA",
+    "Latitude": "33.4793",
+    "Longitude": "-81.97522",
+    "Location": [
+    33.4793,
+    -81.97522
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -81.97522,
+    33.4793
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Specially for Children Seton Health Care",
+    "City": "Austin",
+    "State": "Texas",
+    "Zip": "78701",
+    "Country": "USA",
+    "Latitude": "30.26759",
+    "Longitude": "-97.74299",
+    "Location": [
+    30.26759,
+    -97.74299
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -97.74299,
+    30.26759
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Levine Children's",
+    "City": "Charlotte",
+    "State": "North Carolina",
+    "Zip": "28202",
+    "Country": "USA",
+    "Latitude": "35.22287",
+    "Longitude": "-80.83796",
+    "Location": [
+    35.22287,
+    -80.83796
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -80.83796,
+    35.22287
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Anne & Robert Lurie Hospital",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Zip": "60602",
+    "Country": "USA",
+    "Latitude": "41.88425",
+    "Longitude": "-87.63245",
+    "Location": [
+    41.88425,
+    -87.63245
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.63245,
+    41.88425
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Comer Children's/ Univ of Chicago",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Zip": "60602",
+    "Country": "USA",
+    "Latitude": "41.88425",
+    "Longitude": "-87.63245",
+    "Location": [
+    41.88425,
+    -87.63245
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.63245,
+    41.88425
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Cincinnati Children's Hospital Medical Center",
+    "City": "Cincinnati",
+    "State": "Ohio",
+    "Zip": "45202",
+    "Country": "USA",
+    "Latitude": "39.10713",
+    "Longitude": "-84.50413",
+    "Location": [
+    39.10713,
+    -84.50413
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -84.50413,
+    39.10713
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Cleveland Clinic",
+    "City": "Cleveland",
+    "State": "Ohio",
+    "Zip": "44114",
+    "Country": "USA",
+    "Latitude": "41.50473",
+    "Longitude": "-81.69075",
+    "Location": [
+    41.50473,
+    -81.69075
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -81.69075,
+    41.50473
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Florida University",
+    "City": "Gainesville",
+    "State": "Florida",
+    "Zip": "32601",
+    "Country": "USA",
+    "Latitude": "29.65195",
+    "Longitude": "-82.32279",
+    "Location": [
+    29.65195,
+    -82.32279
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -82.32279,
+    29.65195
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Riley Hospital for Children",
+    "City": "Indianapolis",
+    "State": "Indiana",
+    "Zip": "46204",
+    "Country": "USA",
+    "Latitude": "39.76691",
+    "Longitude": "-86.14996",
+    "Location": [
+    39.76691,
+    -86.14996
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -86.14996,
+    39.76691
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Children's Mercy",
+    "City": "Kansas City",
+    "State": "Missouri",
+    "Zip": "64105",
+    "Country": "USA",
+    "Latitude": "39.10344",
+    "Longitude": "-94.58311",
+    "Location": [
+    39.10344,
+    -94.58311
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -94.58311,
+    39.10344
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Arkansas Children's Hospital",
+    "City": "Little Rock",
+    "State": "Arkansas",
+    "Zip": "72201",
+    "Country": "USA",
+    "Latitude": "34.74871",
+    "Longitude": "-92.27485",
+    "Location": [
+    34.74871,
+    -92.27485
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -92.27485,
+    34.74871
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Saint Barnabas Medical Center",
+    "City": "Livingston",
+    "State": "New Jersey",
+    "Zip": "7039",
+    "Country": "USA",
+    "Latitude": "40.79553",
+    "Longitude": "-74.31742",
+    "Location": [
+    40.79553,
+    -74.31742
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.31742,
+    40.79553
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Children's Hospital Los Angeles",
+    "City": "Los Angeles",
+    "State": "California",
+    "Zip": "90012",
+    "Country": "USA",
+    "Latitude": "34.05349",
+    "Longitude": "-118.24532",
+    "Location": [
+    34.05349,
+    -118.24532
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -118.24532,
+    34.05349
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Medical College of Wisconsin",
+    "City": "Milwaukee",
+    "State": "Wisconsin",
+    "Zip": "53202",
+    "Country": "USA",
+    "Latitude": "43.042",
+    "Longitude": "-87.90687",
+    "Location": [
+    43.042,
+    -87.90687
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.90687,
+    43.042
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "University of Minnesota",
+    "City": "Minneapolis",
+    "State": "Minnesota",
+    "Zip": "55415",
+    "Country": "USA",
+    "Latitude": "44.97902",
+    "Longitude": "-93.26494",
+    "Location": [
+    44.97902,
+    -93.26494
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -93.26494,
+    44.97902
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Vanderbilt University Medical Center",
+    "City": "Nashville",
+    "State": "Tennessee",
+    "Zip": "37201",
+    "Country": "USA",
+    "Latitude": "36.16785",
+    "Longitude": "-86.77816",
+    "Location": [
+    36.16785,
+    -86.77816
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -86.77816,
+    36.16785
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Medical Center of New Brunswick (Rutgers)",
+    "City": "New Brunswick",
+    "State": "New Jersey",
+    "Zip": "8901",
+    "Country": "USA",
+    "Latitude": "40.49477",
+    "Longitude": "-74.44384",
+    "Location": [
+    40.49477,
+    -74.44384
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.44384,
+    40.49477
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Children's Hospital",
+    "City": "Philadelphia",
+    "State": "Pennsylvania",
+    "Zip": "19107",
+    "Country": "USA",
+    "Latitude": "39.95223",
+    "Longitude": "-75.16218",
+    "Location": [
+    39.95223,
+    -75.16218
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -75.16218,
+    39.95223
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "St. Christopher's Hospital for Children",
+    "City": "Philadelphia",
+    "State": "Pennsylvania",
+    "Zip": "19107",
+    "Country": "USA",
+    "Latitude": "39.95223",
+    "Longitude": "-75.16218",
+    "Location": [
+    39.95223,
+    -75.16218
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -75.16218,
+    39.95223
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Children's Hospital of Pittsburgh of UPMC",
+    "City": "Pittsburgh",
+    "State": "Pennsylvania",
+    "Zip": "15219",
+    "Country": "USA",
+    "Latitude": "40.43851",
+    "Longitude": "-79.99734",
+    "Location": [
+    40.43851,
+    -79.99734
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -79.99734,
+    40.43851
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Randall Children's Hospital at Legacy Emanuel Children's Hospital",
+    "City": "Portland",
+    "State": "Oregon",
+    "Zip": "97201",
+    "Country": "USA",
+    "Latitude": "45.5118",
+    "Longitude": "-122.67563",
+    "Location": [
+    45.5118,
+    -122.67563
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.67563,
+    45.5118
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "St. Louis University",
+    "City": "Saint Louis",
+    "State": "Missouri",
+    "Zip": "63103",
+    "Country": "USA",
+    "Latitude": "38.62775",
+    "Longitude": "-90.19956",
+    "Location": [
+    38.62775,
+    -90.19956
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -90.19956,
+    38.62775
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "University of Utah",
+    "City": "Salt Lake City",
+    "State": "Utah",
+    "Zip": "84111",
+    "Country": "USA",
+    "Latitude": "40.76031",
+    "Longitude": "-111.88822",
+    "Location": [
+    40.76031,
+    -111.88822
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -111.88822,
+    40.76031
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Georgia Regents University",
+    "City": "Augusta",
+    "State": "Georgia",
+    "Zip": "30901",
+    "Country": "USA",
+    "Latitude": "33.4793",
+    "Longitude": "-81.97522",
+    "Location": [
+    33.4793,
+    -81.97522
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -81.97522,
+    33.4793
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Specially for Children Seton Health Care",
+    "City": "Austin",
+    "State": "Texas",
+    "Zip": "78701",
+    "Country": "USA",
+    "Latitude": "30.26759",
+    "Longitude": "-97.74299",
+    "Location": [
+    30.26759,
+    -97.74299
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -97.74299,
+    30.26759
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Levine Children's",
+    "City": "Charlotte",
+    "State": "North Carolina",
+    "Zip": "28202",
+    "Country": "USA",
+    "Latitude": "35.22287",
+    "Longitude": "-80.83796",
+    "Location": [
+    35.22287,
+    -80.83796
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -80.83796,
+    35.22287
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Anne & Robert Lurie Hospital",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Zip": "60602",
+    "Country": "USA",
+    "Latitude": "41.88425",
+    "Longitude": "-87.63245",
+    "Location": [
+    41.88425,
+    -87.63245
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.63245,
+    41.88425
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Comer Children's/ Univ of Chicago",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Zip": "60602",
+    "Country": "USA",
+    "Latitude": "41.88425",
+    "Longitude": "-87.63245",
+    "Location": [
+    41.88425,
+    -87.63245
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.63245,
+    41.88425
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Cincinnati Children's Hospital Medical Center",
+    "City": "Cincinnati",
+    "State": "Ohio",
+    "Zip": "45202",
+    "Country": "USA",
+    "Latitude": "39.10713",
+    "Longitude": "-84.50413",
+    "Location": [
+    39.10713,
+    -84.50413
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -84.50413,
+    39.10713
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Cleveland Clinic",
+    "City": "Cleveland",
+    "State": "Ohio",
+    "Zip": "44114",
+    "Country": "USA",
+    "Latitude": "41.50473",
+    "Longitude": "-81.69075",
+    "Location": [
+    41.50473,
+    -81.69075
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -81.69075,
+    41.50473
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Florida University",
+    "City": "Gainesville",
+    "State": "Florida",
+    "Zip": "32601",
+    "Country": "USA",
+    "Latitude": "29.65195",
+    "Longitude": "-82.32279",
+    "Location": [
+    29.65195,
+    -82.32279
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -82.32279,
+    29.65195
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Riley Hospital for Children",
+    "City": "Indianapolis",
+    "State": "Indiana",
+    "Zip": "46204",
+    "Country": "USA",
+    "Latitude": "39.76691",
+    "Longitude": "-86.14996",
+    "Location": [
+    39.76691,
+    -86.14996
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -86.14996,
+    39.76691
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Children's Mercy",
+    "City": "Kansas City",
+    "State": "Missouri",
+    "Zip": "64105",
+    "Country": "USA",
+    "Latitude": "39.10344",
+    "Longitude": "-94.58311",
+    "Location": [
+    39.10344,
+    -94.58311
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -94.58311,
+    39.10344
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Arkansas Children's Hospital",
+    "City": "Little Rock",
+    "State": "Arkansas",
+    "Zip": "72201",
+    "Country": "USA",
+    "Latitude": "34.74871",
+    "Longitude": "-92.27485",
+    "Location": [
+    34.74871,
+    -92.27485
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -92.27485,
+    34.74871
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Saint Barnabas Medical Center",
+    "City": "Livingston",
+    "State": "New Jersey",
+    "Zip": "7039",
+    "Country": "USA",
+    "Latitude": "40.79553",
+    "Longitude": "-74.31742",
+    "Location": [
+    40.79553,
+    -74.31742
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.31742,
+    40.79553
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Children's Hospital Los Angeles",
+    "City": "Los Angeles",
+    "State": "California",
+    "Zip": "90012",
+    "Country": "USA",
+    "Latitude": "34.05349",
+    "Longitude": "-118.24532",
+    "Location": [
+    34.05349,
+    -118.24532
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -118.24532,
+    34.05349
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Medical College of Wisconsin",
+    "City": "Milwaukee",
+    "State": "Wisconsin",
+    "Zip": "53202",
+    "Country": "USA",
+    "Latitude": "43.042",
+    "Longitude": "-87.90687",
+    "Location": [
+    43.042,
+    -87.90687
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.90687,
+    43.042
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "University of Minnesota",
+    "City": "Minneapolis",
+    "State": "Minnesota",
+    "Zip": "55415",
+    "Country": "USA",
+    "Latitude": "44.97902",
+    "Longitude": "-93.26494",
+    "Location": [
+    44.97902,
+    -93.26494
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -93.26494,
+    44.97902
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Vanderbilt University Medical Center",
+    "City": "Nashville",
+    "State": "Tennessee",
+    "Zip": "37201",
+    "Country": "USA",
+    "Latitude": "36.16785",
+    "Longitude": "-86.77816",
+    "Location": [
+    36.16785,
+    -86.77816
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -86.77816,
+    36.16785
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Medical Center of New Brunswick (Rutgers)",
+    "City": "New Brunswick",
+    "State": "New Jersey",
+    "Zip": "8901",
+    "Country": "USA",
+    "Latitude": "40.49477",
+    "Longitude": "-74.44384",
+    "Location": [
+    40.49477,
+    -74.44384
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.44384,
+    40.49477
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Children's Hospital",
+    "City": "Philadelphia",
+    "State": "Pennsylvania",
+    "Zip": "19107",
+    "Country": "USA",
+    "Latitude": "39.95223",
+    "Longitude": "-75.16218",
+    "Location": [
+    39.95223,
+    -75.16218
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -75.16218,
+    39.95223
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "St. Christopher's Hospital for Children",
+    "City": "Philadelphia",
+    "State": "Pennsylvania",
+    "Zip": "19107",
+    "Country": "USA",
+    "Latitude": "39.95223",
+    "Longitude": "-75.16218",
+    "Location": [
+    39.95223,
+    -75.16218
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -75.16218,
+    39.95223
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Children's Hospital of Pittsburgh of UPMC",
+    "City": "Pittsburgh",
+    "State": "Pennsylvania",
+    "Zip": "15219",
+    "Country": "USA",
+    "Latitude": "40.43851",
+    "Longitude": "-79.99734",
+    "Location": [
+    40.43851,
+    -79.99734
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -79.99734,
+    40.43851
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Randall Children's Hospital at Legacy Emanuel Children's Hospital",
+    "City": "Portland",
+    "State": "Oregon",
+    "Zip": "97201",
+    "Country": "USA",
+    "Latitude": "45.5118",
+    "Longitude": "-122.67563",
+    "Location": [
+    45.5118,
+    -122.67563
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.67563,
+    45.5118
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "St. Louis University",
+    "City": "Saint Louis",
+    "State": "Missouri",
+    "Zip": "63103",
+    "Country": "USA",
+    "Latitude": "38.62775",
+    "Longitude": "-90.19956",
+    "Location": [
+    38.62775,
+    -90.19956
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -90.19956,
+    38.62775
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "University of Utah",
+    "City": "Salt Lake City",
+    "State": "Utah",
+    "Zip": "84111",
+    "Country": "USA",
+    "Latitude": "40.76031",
+    "Longitude": "-111.88822",
+    "Location": [
+    40.76031,
+    -111.88822
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -111.88822,
+    40.76031
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Livingston",
+    "State": "New Jersey",
+    "Zip": "7039",
+    "Country": "USA",
+    "Latitude": "40.79553",
+    "Longitude": "-74.31742",
+    "Location": [
+    40.79553,
+    -74.31742
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.31742,
+    40.79553
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01357668",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "New Brunswick",
+    "State": "New Jersey",
+    "Zip": "8901",
+    "Country": "USA",
+    "Latitude": "40.49477",
+    "Longitude": "-74.44384",
+    "Location": [
+    40.49477,
+    -74.44384
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.44384,
+    40.49477
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Impact Migration",
+    "State": "",
+    "Zip": "9000",
+    "Country": "BEL",
+    "Latitude": "51.0543",
+    "Longitude": "3.7174",
+    "Location": [
+    51.0543,
+    3.7174
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    3.7174,
+    51.0543
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Sint-Niklaas",
+    "State": "",
+    "Zip": "9100",
+    "Country": "BEL",
+    "Latitude": "51.16444",
+    "Longitude": "4.14146",
+    "Location": [
+    51.16444,
+    4.14146
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    4.14146,
+    51.16444
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Yvoir",
+    "State": "",
+    "Zip": "5530",
+    "Country": "BEL",
+    "Latitude": "50.32685",
+    "Longitude": "4.8772",
+    "Location": [
+    50.32685,
+    4.8772
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    4.8772,
+    50.32685
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Impact Migration",
+    "State": "",
+    "Zip": "9000",
+    "Country": "BEL",
+    "Latitude": "51.0543",
+    "Longitude": "3.7174",
+    "Location": [
+    51.0543,
+    3.7174
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    3.7174,
+    51.0543
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Sint-Niklaas",
+    "State": "",
+    "Zip": "9100",
+    "Country": "BEL",
+    "Latitude": "51.16444",
+    "Longitude": "4.14146",
+    "Location": [
+    51.16444,
+    4.14146
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    4.14146,
+    51.16444
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Yvoir",
+    "State": "",
+    "Zip": "5530",
+    "Country": "BEL",
+    "Latitude": "50.32685",
+    "Longitude": "4.8772",
+    "Location": [
+    50.32685,
+    4.8772
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    4.8772,
+    50.32685
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Nantes Cedex 1",
+    "State": "",
+    "Zip": "44300",
+    "Country": "FRA",
+    "Latitude": "47.23554",
+    "Longitude": "-1.56607",
+    "Location": [
+    47.23554,
+    -1.56607
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -1.56607,
+    47.23554
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Poitiers",
+    "State": "",
+    "Zip": "86000",
+    "Country": "FRA",
+    "Latitude": "46.58387",
+    "Longitude": "0.3357",
+    "Location": [
+    46.58387,
+    0.3357
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    0.3357,
+    46.58387
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Nantes Cedex 1",
+    "State": "",
+    "Zip": "44300",
+    "Country": "FRA",
+    "Latitude": "47.23554",
+    "Longitude": "-1.56607",
+    "Location": [
+    47.23554,
+    -1.56607
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -1.56607,
+    47.23554
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Poitiers",
+    "State": "",
+    "Zip": "86000",
+    "Country": "FRA",
+    "Latitude": "46.58387",
+    "Longitude": "0.3357",
+    "Location": [
+    46.58387,
+    0.3357
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    0.3357,
+    46.58387
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Alexandra General Hospital Of Athens",
+    "City": "Athens",
+    "State": "",
+    "Zip": "106 71",
+    "Country": "GRC",
+    "Latitude": "37.97614",
+    "Longitude": "23.7364",
+    "Location": [
+    37.97614,
+    23.7364
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    23.7364,
+    37.97614
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Alexandra General Hospital Of Athens",
+    "City": "Athens",
+    "State": "",
+    "Zip": "106 71",
+    "Country": "GRC",
+    "Latitude": "37.97614",
+    "Longitude": "23.7364",
+    "Location": [
+    37.97614,
+    23.7364
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    23.7364,
+    37.97614
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Policlinico S. Orsola Malpighi",
+    "City": "Bologna",
+    "State": "",
+    "Zip": "40121",
+    "Country": "ITA",
+    "Latitude": "44.50485",
+    "Longitude": "11.34507",
+    "Location": [
+    44.50485,
+    11.34507
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    11.34507,
+    44.50485
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Policlinico S. Orsola Malpighi",
+    "City": "Bologna",
+    "State": "",
+    "Zip": "40121",
+    "Country": "ITA",
+    "Latitude": "44.50485",
+    "Longitude": "11.34507",
+    "Location": [
+    44.50485,
+    11.34507
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    11.34507,
+    44.50485
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Chorzow",
+    "State": "",
+    "Zip": "41-506",
+    "Country": "POL",
+    "Latitude": "50.26446",
+    "Longitude": "18.93668",
+    "Location": [
+    50.26446,
+    18.93668
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    18.93668,
+    50.26446
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Oddzial Hematologii i Transplantacji Szpiku",
+    "City": "Poznan",
+    "State": "",
+    "Zip": "61-758",
+    "Country": "POL",
+    "Latitude": "52.40947",
+    "Longitude": "16.93828",
+    "Location": [
+    52.40947,
+    16.93828
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    16.93828,
+    52.40947
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Klinika Hematologii Instytut Hematologii i Transfuzjologii",
+    "City": "Warszawa",
+    "State": "",
+    "Zip": "00-001",
+    "Country": "POL",
+    "Latitude": "52.2356",
+    "Longitude": "21.01038",
+    "Location": [
+    52.2356,
+    21.01038
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    21.01038,
+    52.2356
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "SPSK nr 1 Klinika Hematologii Nowotworow Krwi i Transplantacji Szpiku",
+    "City": "Wroclaw",
+    "State": "",
+    "Zip": "50-075",
+    "Country": "POL",
+    "Latitude": "51.10825",
+    "Longitude": "17.02692",
+    "Location": [
+    51.10825,
+    17.02692
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    17.02692,
+    51.10825
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Chorzow",
+    "State": "",
+    "Zip": "41-506",
+    "Country": "POL",
+    "Latitude": "50.26446",
+    "Longitude": "18.93668",
+    "Location": [
+    50.26446,
+    18.93668
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    18.93668,
+    50.26446
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Oddzial Hematologii i Transplantacji Szpiku",
+    "City": "Poznan",
+    "State": "",
+    "Zip": "61-758",
+    "Country": "POL",
+    "Latitude": "52.40947",
+    "Longitude": "16.93828",
+    "Location": [
+    52.40947,
+    16.93828
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    16.93828,
+    52.40947
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Klinika Hematologii Instytut Hematologii i Transfuzjologii",
+    "City": "Warszawa",
+    "State": "",
+    "Zip": "00-001",
+    "Country": "POL",
+    "Latitude": "52.2356",
+    "Longitude": "21.01038",
+    "Location": [
+    52.2356,
+    21.01038
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    21.01038,
+    52.2356
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "SPSK nr 1 Klinika Hematologii Nowotworow Krwi i Transplantacji Szpiku",
+    "City": "Wroclaw",
+    "State": "",
+    "Zip": "50-075",
+    "Country": "POL",
+    "Latitude": "51.10825",
+    "Longitude": "17.02692",
+    "Location": [
+    51.10825,
+    17.02692
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    17.02692,
+    51.10825
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Chorzow",
+    "State": "",
+    "Zip": "41-506",
+    "Country": "POL",
+    "Latitude": "50.26446",
+    "Longitude": "18.93668",
+    "Location": [
+    50.26446,
+    18.93668
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    18.93668,
+    50.26446
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Oddzial Hematologii i Transplantacji Szpiku",
+    "City": "Poznan",
+    "State": "",
+    "Zip": "61-758",
+    "Country": "POL",
+    "Latitude": "52.40947",
+    "Longitude": "16.93828",
+    "Location": [
+    52.40947,
+    16.93828
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    16.93828,
+    52.40947
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Klinika Hematologii Instytut Hematologii i Transfuzjologii",
+    "City": "Warszawa",
+    "State": "",
+    "Zip": "00-001",
+    "Country": "POL",
+    "Latitude": "52.2356",
+    "Longitude": "21.01038",
+    "Location": [
+    52.2356,
+    21.01038
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    21.01038,
+    52.2356
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "SPSK nr 1 Klinika Hematologii Nowotworow Krwi i Transplantacji Szpiku",
+    "City": "Wroclaw",
+    "State": "",
+    "Zip": "50-075",
+    "Country": "POL",
+    "Latitude": "51.10825",
+    "Longitude": "17.02692",
+    "Location": [
+    51.10825,
+    17.02692
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    17.02692,
+    51.10825
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Atlanta",
+    "State": "Georgia",
+    "Zip": "30303",
+    "Country": "USA",
+    "Latitude": "33.74832",
+    "Longitude": "-84.39111",
+    "Location": [
+    33.74832,
+    -84.39111
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -84.39111,
+    33.74832
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "University of Colorado Denver",
+    "City": "Aurora",
+    "State": "Colorado",
+    "Zip": "80012",
+    "Country": "USA",
+    "Latitude": "39.70933",
+    "Longitude": "-104.81458",
+    "Location": [
+    39.70933,
+    -104.81458
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -104.81458,
+    39.70933
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "The Sidney Kimmel Comprehensive Cancer Center",
+    "City": "Baltimore",
+    "State": "Maryland",
+    "Zip": "21202",
+    "Country": "USA",
+    "Latitude": "39.29058",
+    "Longitude": "-76.60926",
+    "Location": [
+    39.29058,
+    -76.60926
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -76.60926,
+    39.29058
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Policlinico S. Orsola Malpighi",
+    "City": "Bologna",
+    "State": "Maryland",
+    "Zip": "12116",
+    "Country": "USA",
+    "Latitude": "42.50081",
+    "Longitude": "-74.93232",
+    "Location": [
+    42.50081,
+    -74.93232
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.93232,
+    42.50081
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Dana Farber Cancer Institute",
+    "City": "Boston",
+    "State": "Massachusetts",
+    "Zip": "2109",
+    "Country": "USA",
+    "Latitude": "42.35866",
+    "Longitude": "-71.05675",
+    "Location": [
+    42.35866,
+    -71.05675
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -71.05675,
+    42.35866
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Dana-Farber Cancer Institute",
+    "City": "Boston",
+    "State": "",
+    "Zip": "2109",
+    "Country": "USA",
+    "Latitude": "42.35866",
+    "Longitude": "-71.05675",
+    "Location": [
+    42.35866,
+    -71.05675
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -71.05675,
+    42.35866
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Cleveland",
+    "State": "Ohio",
+    "Zip": "44114",
+    "Country": "USA",
+    "Latitude": "41.50473",
+    "Longitude": "-81.69075",
+    "Location": [
+    41.50473,
+    -81.69075
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -81.69075,
+    41.50473
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Ohio State University",
+    "City": "Columbus",
+    "State": "Ohio",
+    "Zip": "43215",
+    "Country": "USA",
+    "Latitude": "39.96199",
+    "Longitude": "-83.00276",
+    "Location": [
+    39.96199,
+    -83.00276
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -83.00276,
+    39.96199
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Fresno",
+    "State": "California",
+    "Zip": "93721",
+    "Country": "USA",
+    "Latitude": "36.74077",
+    "Longitude": "-119.78562",
+    "Location": [
+    36.74077,
+    -119.78562
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -119.78562,
+    36.74077
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Indiana University Melvin & Bren Simon Cancer Center",
+    "City": "Indianapolis",
+    "State": "Indiana",
+    "Zip": "46204",
+    "Country": "USA",
+    "Latitude": "39.76691",
+    "Longitude": "-86.14996",
+    "Location": [
+    39.76691,
+    -86.14996
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -86.14996,
+    39.76691
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "University Of Kansas Medical Center",
+    "City": "Kansas City",
+    "State": "Kansas",
+    "Zip": "66101",
+    "Country": "USA",
+    "Latitude": "39.11352",
+    "Longitude": "-94.62682",
+    "Location": [
+    39.11352,
+    -94.62682
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -94.62682,
+    39.11352
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Knoxville",
+    "State": "Tennessee",
+    "Zip": "37902",
+    "Country": "USA",
+    "Latitude": "35.96068",
+    "Longitude": "-83.92103",
+    "Location": [
+    35.96068,
+    -83.92103
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -83.92103,
+    35.96068
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Lafayette",
+    "State": "Indiana",
+    "Zip": "47904",
+    "Country": "USA",
+    "Latitude": "40.41738",
+    "Longitude": "-86.87598",
+    "Location": [
+    40.41738,
+    -86.87598
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -86.87598,
+    40.41738
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Little Rock",
+    "State": "Arkansas",
+    "Zip": "72201",
+    "Country": "USA",
+    "Latitude": "34.74871",
+    "Longitude": "-92.27485",
+    "Location": [
+    34.74871,
+    -92.27485
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -92.27485,
+    34.74871
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Long Beach",
+    "State": "California",
+    "Zip": "90802",
+    "Country": "USA",
+    "Latitude": "33.76673",
+    "Longitude": "-118.1924",
+    "Location": [
+    33.76673,
+    -118.1924
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -118.1924,
+    33.76673
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Miami",
+    "State": "Florida",
+    "Zip": "33128",
+    "Country": "USA",
+    "Latitude": "25.77481",
+    "Longitude": "-80.19773",
+    "Location": [
+    25.77481,
+    -80.19773
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -80.19773,
+    25.77481
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Milwaukee",
+    "State": "Wisconsin",
+    "Zip": "53202",
+    "Country": "USA",
+    "Latitude": "43.042",
+    "Longitude": "-87.90687",
+    "Location": [
+    43.042,
+    -87.90687
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.90687,
+    43.042
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Murray",
+    "State": "Utah",
+    "Zip": "84107",
+    "Country": "USA",
+    "Latitude": "40.66232",
+    "Longitude": "-111.88832",
+    "Location": [
+    40.66232,
+    -111.88832
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -111.88832,
+    40.66232
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Memorial Sloan Kettering Cancer Center",
+    "City": "New York",
+    "State": "New York",
+    "Zip": "10007",
+    "Country": "USA",
+    "Latitude": "40.71455",
+    "Longitude": "-74.00714",
+    "Location": [
+    40.71455,
+    -74.00714
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.00714,
+    40.71455
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Oklahoma City",
+    "State": "Oklahoma",
+    "Zip": "73102",
+    "Country": "USA",
+    "Latitude": "35.47204",
+    "Longitude": "-97.52107",
+    "Location": [
+    35.47204,
+    -97.52107
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -97.52107,
+    35.47204
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Nebraska Cancer Specialists",
+    "City": "Omaha",
+    "State": "Nebraska",
+    "Zip": "68102",
+    "Country": "USA",
+    "Latitude": "41.26068",
+    "Longitude": "-95.94026",
+    "Location": [
+    41.26068,
+    -95.94026
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -95.94026,
+    41.26068
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Cancer Institute Of Florida",
+    "City": "Orlando",
+    "State": "Florida",
+    "Zip": "32801",
+    "Country": "USA",
+    "Latitude": "28.53823",
+    "Longitude": "-81.37739",
+    "Location": [
+    28.53823,
+    -81.37739
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -81.37739,
+    28.53823
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Pittsburgh",
+    "State": "Pennsylvania",
+    "Zip": "15219",
+    "Country": "USA",
+    "Latitude": "40.43851",
+    "Longitude": "-79.99734",
+    "Location": [
+    40.43851,
+    -79.99734
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -79.99734,
+    40.43851
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "OHSU Center for Hematologic Malignancies",
+    "City": "Portland",
+    "State": "Oregon",
+    "Zip": "97201",
+    "Country": "USA",
+    "Latitude": "45.5118",
+    "Longitude": "-122.67563",
+    "Location": [
+    45.5118,
+    -122.67563
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.67563,
+    45.5118
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Mayo Clinic",
+    "City": "Rochester",
+    "State": "Minnesota",
+    "Zip": "55904",
+    "Country": "USA",
+    "Latitude": "44.01932",
+    "Longitude": "-92.45942",
+    "Location": [
+    44.01932,
+    -92.45942
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -92.45942,
+    44.01932
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Saint George",
+    "State": "Utah",
+    "Zip": "84770",
+    "Country": "USA",
+    "Latitude": "37.10977",
+    "Longitude": "-113.5833",
+    "Location": [
+    37.10977,
+    -113.5833
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -113.5833,
+    37.10977
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Salt Lake City",
+    "State": "Utah",
+    "Zip": "84111",
+    "Country": "USA",
+    "Latitude": "40.76031",
+    "Longitude": "-111.88822",
+    "Location": [
+    40.76031,
+    -111.88822
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -111.88822,
+    40.76031
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Huntsman Cancer Institute At The Univ. Of Utah",
+    "City": "Salt Lake City",
+    "State": "Utah",
+    "Zip": "84111",
+    "Country": "USA",
+    "Latitude": "40.76031",
+    "Longitude": "-111.88822",
+    "Location": [
+    40.76031,
+    -111.88822
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -111.88822,
+    40.76031
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Skokie",
+    "State": "Illinois",
+    "Zip": "60077",
+    "Country": "USA",
+    "Latitude": "42.02634",
+    "Longitude": "-87.75568",
+    "Location": [
+    42.02634,
+    -87.75568
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.75568,
+    42.02634
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "BMS Study Connect",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Tampa",
+    "State": "Florida",
+    "Zip": "33602",
+    "Country": "USA",
+    "Latitude": "27.94653",
+    "Longitude": "-82.45927",
+    "Location": [
+    27.94653,
+    -82.45927
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -82.45927,
+    27.94653
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "University of Colorado Denver",
+    "City": "Aurora",
+    "State": "Colorado",
+    "Zip": "80012",
+    "Country": "USA",
+    "Latitude": "39.70933",
+    "Longitude": "-104.81458",
+    "Location": [
+    39.70933,
+    -104.81458
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -104.81458,
+    39.70933
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Dana Farber Cancer Institute",
+    "City": "Boston",
+    "State": "Massachusetts",
+    "Zip": "2109",
+    "Country": "USA",
+    "Latitude": "42.35866",
+    "Longitude": "-71.05675",
+    "Location": [
+    42.35866,
+    -71.05675
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -71.05675,
+    42.35866
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Ohio State University",
+    "City": "Columbus",
+    "State": "Ohio",
+    "Zip": "43215",
+    "Country": "USA",
+    "Latitude": "39.96199",
+    "Longitude": "-83.00276",
+    "Location": [
+    39.96199,
+    -83.00276
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -83.00276,
+    39.96199
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Fresno",
+    "State": "California",
+    "Zip": "93721",
+    "Country": "USA",
+    "Latitude": "36.74077",
+    "Longitude": "-119.78562",
+    "Location": [
+    36.74077,
+    -119.78562
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -119.78562,
+    36.74077
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Indiana University Melvin & Bren Simon Cancer Center",
+    "City": "Indianapolis",
+    "State": "Indiana",
+    "Zip": "46204",
+    "Country": "USA",
+    "Latitude": "39.76691",
+    "Longitude": "-86.14996",
+    "Location": [
+    39.76691,
+    -86.14996
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -86.14996,
+    39.76691
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "University Of Kansas Medical Center",
+    "City": "Kansas City",
+    "State": "Kansas",
+    "Zip": "66101",
+    "Country": "USA",
+    "Latitude": "39.11352",
+    "Longitude": "-94.62682",
+    "Location": [
+    39.11352,
+    -94.62682
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -94.62682,
+    39.11352
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Knoxville",
+    "State": "Tennessee",
+    "Zip": "37902",
+    "Country": "USA",
+    "Latitude": "35.96068",
+    "Longitude": "-83.92103",
+    "Location": [
+    35.96068,
+    -83.92103
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -83.92103,
+    35.96068
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Memorial Sloan Kettering Cancer Center",
+    "City": "New York",
+    "State": "New York",
+    "Zip": "10007",
+    "Country": "USA",
+    "Latitude": "40.71455",
+    "Longitude": "-74.00714",
+    "Location": [
+    40.71455,
+    -74.00714
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.00714,
+    40.71455
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Nebraska Cancer Specialists",
+    "City": "Omaha",
+    "State": "Nebraska",
+    "Zip": "68102",
+    "Country": "USA",
+    "Latitude": "41.26068",
+    "Longitude": "-95.94026",
+    "Location": [
+    41.26068,
+    -95.94026
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -95.94026,
+    41.26068
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Cancer Institute Of Florida",
+    "City": "Orlando",
+    "State": "Florida",
+    "Zip": "32801",
+    "Country": "USA",
+    "Latitude": "28.53823",
+    "Longitude": "-81.37739",
+    "Location": [
+    28.53823,
+    -81.37739
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -81.37739,
+    28.53823
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Pittsburgh",
+    "State": "Pennsylvania",
+    "Zip": "15219",
+    "Country": "USA",
+    "Latitude": "40.43851",
+    "Longitude": "-79.99734",
+    "Location": [
+    40.43851,
+    -79.99734
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -79.99734,
+    40.43851
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "OHSU Center for Hematologic Malignancies",
+    "City": "Portland",
+    "State": "Oregon",
+    "Zip": "97201",
+    "Country": "USA",
+    "Latitude": "45.5118",
+    "Longitude": "-122.67563",
+    "Location": [
+    45.5118,
+    -122.67563
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.67563,
+    45.5118
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Saint George",
+    "State": "Utah",
+    "Zip": "84770",
+    "Country": "USA",
+    "Latitude": "37.10977",
+    "Longitude": "-113.5833",
+    "Location": [
+    37.10977,
+    -113.5833
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -113.5833,
+    37.10977
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "CT.Gov",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Skokie",
+    "State": "Illinois",
+    "Zip": "60077",
+    "Country": "USA",
+    "Latitude": "42.02634",
+    "Longitude": "-87.75568",
+    "Location": [
+    42.02634,
+    -87.75568
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.75568,
+    42.02634
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "University of Colorado Denver",
+    "City": "Aurora",
+    "State": "Colorado",
+    "Zip": "80012",
+    "Country": "USA",
+    "Latitude": "39.70933",
+    "Longitude": "-104.81458",
+    "Location": [
+    39.70933,
+    -104.81458
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -104.81458,
+    39.70933
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Dana Farber Cancer Institute",
+    "City": "Boston",
+    "State": "Massachusetts",
+    "Zip": "2109",
+    "Country": "USA",
+    "Latitude": "42.35866",
+    "Longitude": "-71.05675",
+    "Location": [
+    42.35866,
+    -71.05675
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -71.05675,
+    42.35866
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Ohio State University",
+    "City": "Columbus",
+    "State": "Ohio",
+    "Zip": "43215",
+    "Country": "USA",
+    "Latitude": "39.96199",
+    "Longitude": "-83.00276",
+    "Location": [
+    39.96199,
+    -83.00276
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -83.00276,
+    39.96199
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Fresno",
+    "State": "California",
+    "Zip": "93721",
+    "Country": "USA",
+    "Latitude": "36.74077",
+    "Longitude": "-119.78562",
+    "Location": [
+    36.74077,
+    -119.78562
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -119.78562,
+    36.74077
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Indiana University Melvin & Bren Simon Cancer Center",
+    "City": "Indianapolis",
+    "State": "Indiana",
+    "Zip": "46204",
+    "Country": "USA",
+    "Latitude": "39.76691",
+    "Longitude": "-86.14996",
+    "Location": [
+    39.76691,
+    -86.14996
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -86.14996,
+    39.76691
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "University Of Kansas Medical Center",
+    "City": "Kansas City",
+    "State": "Kansas",
+    "Zip": "66101",
+    "Country": "USA",
+    "Latitude": "39.11352",
+    "Longitude": "-94.62682",
+    "Location": [
+    39.11352,
+    -94.62682
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -94.62682,
+    39.11352
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Knoxville",
+    "State": "Tennessee",
+    "Zip": "37902",
+    "Country": "USA",
+    "Latitude": "35.96068",
+    "Longitude": "-83.92103",
+    "Location": [
+    35.96068,
+    -83.92103
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -83.92103,
+    35.96068
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Memorial Sloan Kettering Cancer Center",
+    "City": "New York",
+    "State": "New York",
+    "Zip": "10007",
+    "Country": "USA",
+    "Latitude": "40.71455",
+    "Longitude": "-74.00714",
+    "Location": [
+    40.71455,
+    -74.00714
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.00714,
+    40.71455
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Nebraska Cancer Specialists",
+    "City": "Omaha",
+    "State": "Nebraska",
+    "Zip": "68102",
+    "Country": "USA",
+    "Latitude": "41.26068",
+    "Longitude": "-95.94026",
+    "Location": [
+    41.26068,
+    -95.94026
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -95.94026,
+    41.26068
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Cancer Institute Of Florida",
+    "City": "Orlando",
+    "State": "Florida",
+    "Zip": "32801",
+    "Country": "USA",
+    "Latitude": "28.53823",
+    "Longitude": "-81.37739",
+    "Location": [
+    28.53823,
+    -81.37739
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -81.37739,
+    28.53823
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Pittsburgh",
+    "State": "Pennsylvania",
+    "Zip": "15219",
+    "Country": "USA",
+    "Latitude": "40.43851",
+    "Longitude": "-79.99734",
+    "Location": [
+    40.43851,
+    -79.99734
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -79.99734,
+    40.43851
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "OHSU Center for Hematologic Malignancies",
+    "City": "Portland",
+    "State": "Oregon",
+    "Zip": "97201",
+    "Country": "USA",
+    "Latitude": "45.5118",
+    "Longitude": "-122.67563",
+    "Location": [
+    45.5118,
+    -122.67563
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.67563,
+    45.5118
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Saint George",
+    "State": "Utah",
+    "Zip": "84770",
+    "Country": "USA",
+    "Latitude": "37.10977",
+    "Longitude": "-113.5833",
+    "Location": [
+    37.10977,
+    -113.5833
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -113.5833,
+    37.10977
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT01592370",
+    "platform": "Disclose",
+    "recruiting": "Not yet recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Skokie",
+    "State": "Illinois",
+    "Zip": "60077",
+    "Country": "USA",
+    "Latitude": "42.02634",
+    "Longitude": "-87.75568",
+    "Location": [
+    42.02634,
+    -87.75568
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.75568,
+    42.02634
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Jewish General Hospital",
+    "City": "Montreal",
+    "State": "Quebec",
+    "Zip": "H2L",
+    "Country": "CAN",
+    "Latitude": "45.51241",
+    "Longitude": "-73.55469",
+    "Location": [
+    45.51241,
+    -73.55469
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -73.55469,
+    45.51241
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Princess Margaret Cancer Centre",
+    "City": "Toronto",
+    "State": "Ontario",
+    "Zip": "M5H",
+    "Country": "CAN",
+    "Latitude": "43.6487",
+    "Longitude": "-79.38545",
+    "Location": [
+    43.6487,
+    -79.38545
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -79.38545,
+    43.6487
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "BC Cancer Agency - Vancouver Centre",
+    "City": "Vancouver",
+    "State": "British Columbia",
+    "Zip": "V5Y",
+    "Country": "CAN",
+    "Latitude": "49.26039",
+    "Longitude": "-123.11336",
+    "Location": [
+    49.26039,
+    -123.11336
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -123.11336,
+    49.26039
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Jewish General Hospital",
+    "City": "Montreal",
+    "State": "Quebec",
+    "Zip": "H2L",
+    "Country": "CAN",
+    "Latitude": "45.51241",
+    "Longitude": "-73.55469",
+    "Location": [
+    45.51241,
+    -73.55469
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -73.55469,
+    45.51241
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Princess Margaret Cancer Centre",
+    "City": "Toronto",
+    "State": "Ontario",
+    "Zip": "M5H",
+    "Country": "CAN",
+    "Latitude": "43.6487",
+    "Longitude": "-79.38545",
+    "Location": [
+    43.6487,
+    -79.38545
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -79.38545,
+    43.6487
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "BC Cancer Agency - Vancouver Centre",
+    "City": "Vancouver",
+    "State": "British Columbia",
+    "Zip": "V5Y",
+    "Country": "CAN",
+    "Latitude": "49.26039",
+    "Longitude": "-123.11336",
+    "Location": [
+    49.26039,
+    -123.11336
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -123.11336,
+    49.26039
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Jewish General Hospital",
+    "City": "Montreal",
+    "State": "Quebec",
+    "Zip": "H2L",
+    "Country": "CAN",
+    "Latitude": "45.51241",
+    "Longitude": "-73.55469",
+    "Location": [
+    45.51241,
+    -73.55469
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -73.55469,
+    45.51241
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Princess Margaret Cancer Centre",
+    "City": "Toronto",
+    "State": "Ontario",
+    "Zip": "M5H",
+    "Country": "CAN",
+    "Latitude": "43.6487",
+    "Longitude": "-79.38545",
+    "Location": [
+    43.6487,
+    -79.38545
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -79.38545,
+    43.6487
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "BC Cancer Agency - Vancouver Centre",
+    "City": "Vancouver",
+    "State": "British Columbia",
+    "Zip": "V5Y",
+    "Country": "CAN",
+    "Latitude": "49.26039",
+    "Longitude": "-123.11336",
+    "Location": [
+    49.26039,
+    -123.11336
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -123.11336,
+    49.26039
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Centre Hospitalier Lyon Sud",
+    "City": "Pierre Benite Cedex",
+    "State": "",
+    "Zip": "69310",
+    "Country": "FRA",
+    "Latitude": "45.70388",
+    "Longitude": "4.82076",
+    "Location": [
+    45.70388,
+    4.82076
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    4.82076,
+    45.70388
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Centre Hospitalier Lyon Sud",
+    "City": "Pierre Benite Cedex",
+    "State": "",
+    "Zip": "69310",
+    "Country": "FRA",
+    "Latitude": "45.70388",
+    "Longitude": "4.82076",
+    "Location": [
+    45.70388,
+    4.82076
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    4.82076,
+    45.70388
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Alma Mater Studiorum - Universita' Di Bologna",
+    "City": "Bologna",
+    "State": "",
+    "Zip": "40121",
+    "Country": "ITA",
+    "Latitude": "44.50485",
+    "Longitude": "11.34507",
+    "Location": [
+    44.50485,
+    11.34507
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    11.34507,
+    44.50485
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Istituto Clinico Humanitas",
+    "City": "Milano",
+    "State": "Milano",
+    "Zip": "20121",
+    "Country": "ITA",
+    "Latitude": "45.46796",
+    "Longitude": "9.18178",
+    "Location": [
+    45.46796,
+    9.18178
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    9.18178,
+    45.46796
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Azienda Ospedaliera Papa Giovanni Xxiii",
+    "City": "Piazza OMS",
+    "State": "",
+    "Zip": "24127",
+    "Country": "ITA",
+    "Latitude": "45.68655",
+    "Longitude": "9.63958",
+    "Location": [
+    45.68655,
+    9.63958
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    9.63958,
+    45.68655
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Azienda Ospedaliera Papa Giovanni Xxiii",
+    "City": "Bergamo",
+    "State": "",
+    "Zip": "24121",
+    "Country": "ITA",
+    "Latitude": "45.69523",
+    "Longitude": "9.66951",
+    "Location": [
+    45.69523,
+    9.66951
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    9.66951,
+    45.69523
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Alma Mater Studiorum - Universita' Di Bologna",
+    "City": "Bologna",
+    "State": "",
+    "Zip": "40121",
+    "Country": "ITA",
+    "Latitude": "44.50485",
+    "Longitude": "11.34507",
+    "Location": [
+    44.50485,
+    11.34507
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    11.34507,
+    44.50485
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Istituto Clinico Humanitas",
+    "City": "Rozzano (milano)",
+    "State": "",
+    "Zip": "20089",
+    "Country": "ITA",
+    "Latitude": "45.38147",
+    "Longitude": "9.15549",
+    "Location": [
+    45.38147,
+    9.15549
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    9.15549,
+    45.38147
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Azienda Ospedaliera Papa Giovanni Xxiii",
+    "City": "Bergamo",
+    "State": "",
+    "Zip": "24121",
+    "Country": "ITA",
+    "Latitude": "45.69523",
+    "Longitude": "9.66951",
+    "Location": [
+    45.69523,
+    9.66951
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    9.66951,
+    45.69523
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Alma Mater Studiorum - Universita' Di Bologna",
+    "City": "Bologna",
+    "State": "",
+    "Zip": "40121",
+    "Country": "ITA",
+    "Latitude": "44.50485",
+    "Longitude": "11.34507",
+    "Location": [
+    44.50485,
+    11.34507
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    11.34507,
+    44.50485
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Istituto Clinico Humanitas",
+    "City": "Rozzano (milano)",
+    "State": "",
+    "Zip": "20089",
+    "Country": "ITA",
+    "Latitude": "45.38147",
+    "Longitude": "9.15549",
+    "Location": [
+    45.38147,
+    9.15549
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    9.15549,
+    45.38147
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital Duran I Reynals",
+    "City": "Barcelona",
+    "State": "",
+    "Zip": "8007",
+    "Country": "ESP",
+    "Latitude": "41.38804",
+    "Longitude": "2.17001",
+    "Location": [
+    41.38804,
+    2.17001
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    2.17001,
+    41.38804
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital Duran I Reynals",
+    "City": "Hospitalet de Llobregat - Barcelona",
+    "State": "",
+    "Zip": "8901",
+    "Country": "ESP",
+    "Latitude": "41.36332",
+    "Longitude": "2.10513",
+    "Location": [
+    41.36332,
+    2.10513
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    2.10513,
+    41.36332
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Hospital Duran I Reynals",
+    "City": "Hospitalet de Llobregat - Barcelona",
+    "State": "",
+    "Zip": "8901",
+    "Country": "ESP",
+    "Latitude": "41.36332",
+    "Longitude": "2.10513",
+    "Location": [
+    41.36332,
+    2.10513
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    2.10513,
+    41.36332
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Churchill Hospital",
+    "City": "Oxford",
+    "State": "Oxfordshire",
+    "Zip": "OX1 3",
+    "Country": "GBR",
+    "Latitude": "51.7563",
+    "Longitude": "-1.25951",
+    "Location": [
+    51.7563,
+    -1.25951
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -1.25951,
+    51.7563
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Royal Marsden Hospital",
+    "City": "Sutton",
+    "State": "Surrey",
+    "Zip": "SM1 2",
+    "Country": "GBR",
+    "Latitude": "51.36119",
+    "Longitude": "-0.19756",
+    "Location": [
+    51.36119,
+    -0.19756
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -0.19756,
+    51.36119
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Churchill Hospital",
+    "City": "Oxford",
+    "State": "Oxfordshire",
+    "Zip": "OX1 3",
+    "Country": "GBR",
+    "Latitude": "51.7563",
+    "Longitude": "-1.25951",
+    "Location": [
+    51.7563,
+    -1.25951
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -1.25951,
+    51.7563
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Royal Marsden Hospital",
+    "City": "Sutton",
+    "State": "Surrey",
+    "Zip": "SM1 2",
+    "Country": "GBR",
+    "Latitude": "51.36119",
+    "Longitude": "-0.19756",
+    "Location": [
+    51.36119,
+    -0.19756
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -0.19756,
+    51.36119
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Winship Cancer Institute.",
+    "City": "Atlanta",
+    "State": "Georgia",
+    "Zip": "30303",
+    "Country": "USA",
+    "Latitude": "33.74832",
+    "Longitude": "-84.39111",
+    "Location": [
+    33.74832,
+    -84.39111
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -84.39111,
+    33.74832
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "University of Alabama At Birmingham",
+    "City": "Birmingham",
+    "State": "Alabama",
+    "Zip": "35203",
+    "Country": "USA",
+    "Latitude": "33.52068",
+    "Longitude": "-86.81176",
+    "Location": [
+    33.52068,
+    -86.81176
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -86.81176,
+    33.52068
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Bon Secours-St Francis Hosp",
+    "City": "Cancer Center",
+    "State": "Greenville",
+    "Zip": "29609",
+    "Country": "USA",
+    "Latitude": "34.91606",
+    "Longitude": "-82.42585",
+    "Location": [
+    34.91606,
+    -82.42585
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -82.42585,
+    34.91606
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Levine Cancer Institute",
+    "City": "Charlotte",
+    "State": "North Carolina",
+    "Zip": "28202",
+    "Country": "USA",
+    "Latitude": "35.22287",
+    "Longitude": "-80.83796",
+    "Location": [
+    35.22287,
+    -80.83796
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -80.83796,
+    35.22287
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "University Of Chicago",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Zip": "60602",
+    "Country": "USA",
+    "Latitude": "41.88425",
+    "Longitude": "-87.63245",
+    "Location": [
+    41.88425,
+    -87.63245
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.63245,
+    41.88425
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Moffitt Cancer Center",
+    "City": "Inc 12902 Magnolia Drive",
+    "State": "Tampa",
+    "Zip": "33612",
+    "Country": "USA",
+    "Latitude": "28.06355",
+    "Longitude": "-82.42034",
+    "Location": [
+    28.06355,
+    -82.42034
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -82.42034,
+    28.06355
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "University Of Miami Sylvester Comprehensive Cancer Center",
+    "City": "Miami",
+    "State": "Florida",
+    "Zip": "33128",
+    "Country": "USA",
+    "Latitude": "25.77481",
+    "Longitude": "-80.19773",
+    "Location": [
+    25.77481,
+    -80.19773
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -80.19773,
+    25.77481
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Icahn School Of Medicine At Mount Sinai",
+    "City": "New York",
+    "State": "New York",
+    "Zip": "10007",
+    "Country": "USA",
+    "Latitude": "40.71455",
+    "Longitude": "-74.00714",
+    "Location": [
+    40.71455,
+    -74.00714
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.00714,
+    40.71455
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "New York",
+    "State": "New York",
+    "Zip": "10007",
+    "Country": "USA",
+    "Latitude": "40.71455",
+    "Longitude": "-74.00714",
+    "Location": [
+    40.71455,
+    -74.00714
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.00714,
+    40.71455
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Providence Portland Medical Center",
+    "City": "Portland",
+    "State": "Oregon",
+    "Zip": "97201",
+    "Country": "USA",
+    "Latitude": "45.5118",
+    "Longitude": "-122.67563",
+    "Location": [
+    45.5118,
+    -122.67563
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.67563,
+    45.5118
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Mayo Clinic",
+    "City": "Rochester",
+    "State": "Minnesota",
+    "Zip": "55904",
+    "Country": "USA",
+    "Latitude": "44.01932",
+    "Longitude": "-92.45942",
+    "Location": [
+    44.01932,
+    -92.45942
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -92.45942,
+    44.01932
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "University Of Rochester",
+    "City": "Rochester",
+    "State": "New York",
+    "Zip": "14614",
+    "Country": "USA",
+    "Latitude": "43.1558",
+    "Longitude": "-77.61632",
+    "Location": [
+    43.1558,
+    -77.61632
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -77.61632,
+    43.1558
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Washington University School Of Medicine",
+    "City": "Saint Louis",
+    "State": "Missouri",
+    "Zip": "63103",
+    "Country": "USA",
+    "Latitude": "38.62775",
+    "Longitude": "-90.19956",
+    "Location": [
+    38.62775,
+    -90.19956
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -90.19956,
+    38.62775
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Local Institution",
+    "City": "Seattle",
+    "State": "Washington",
+    "Zip": "98104",
+    "Country": "USA",
+    "Latitude": "47.60358",
+    "Longitude": "-122.32945",
+    "Location": [
+    47.60358,
+    -122.32945
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.32945,
+    47.60358
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "University Of Chicago",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Zip": "60602",
+    "Country": "USA",
+    "Latitude": "41.88425",
+    "Longitude": "-87.63245",
+    "Location": [
+    41.88425,
+    -87.63245
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.63245,
+    41.88425
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Icahn School Of Medicine At Mount Sinai",
+    "City": "New York",
+    "State": "New York",
+    "Zip": "10007",
+    "Country": "USA",
+    "Latitude": "40.71455",
+    "Longitude": "-74.00714",
+    "Location": [
+    40.71455,
+    -74.00714
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.00714,
+    40.71455
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Memorial Sloan Kettering Cancer Center",
+    "City": "New York",
+    "State": "New York",
+    "Zip": "10007",
+    "Country": "USA",
+    "Latitude": "40.71455",
+    "Longitude": "-74.00714",
+    "Location": [
+    40.71455,
+    -74.00714
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.00714,
+    40.71455
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Mayo Clinic",
+    "City": "Rochester",
+    "State": "Minnesota",
+    "Zip": "55904",
+    "Country": "USA",
+    "Latitude": "44.01932",
+    "Longitude": "-92.45942",
+    "Location": [
+    44.01932,
+    -92.45942
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -92.45942,
+    44.01932
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "University Of Rochester",
+    "City": "Rochester",
+    "State": "New York",
+    "Zip": "14614",
+    "Country": "USA",
+    "Latitude": "43.1558",
+    "Longitude": "-77.61632",
+    "Location": [
+    43.1558,
+    -77.61632
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -77.61632,
+    43.1558
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Washington University School Of Medicine",
+    "City": "Saint Louis",
+    "State": "Missouri",
+    "Zip": "63103",
+    "Country": "USA",
+    "Latitude": "38.62775",
+    "Longitude": "-90.19956",
+    "Location": [
+    38.62775,
+    -90.19956
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -90.19956,
+    38.62775
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "CT.Gov",
+    "recruiting": "Recruiting",
+    "FacilityName": "Seattle Cancer Care Alliance",
+    "City": "Seattle",
+    "State": "Washington",
+    "Zip": "98104",
+    "Country": "USA",
+    "Latitude": "47.60358",
+    "Longitude": "-122.32945",
+    "Location": [
+    47.60358,
+    -122.32945
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.32945,
+    47.60358
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "University Of Chicago",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Zip": "60602",
+    "Country": "USA",
+    "Latitude": "41.88425",
+    "Longitude": "-87.63245",
+    "Location": [
+    41.88425,
+    -87.63245
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -87.63245,
+    41.88425
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Icahn School Of Medicine At Mount Sinai",
+    "City": "New York",
+    "State": "New York",
+    "Zip": "10007",
+    "Country": "USA",
+    "Latitude": "40.71455",
+    "Longitude": "-74.00714",
+    "Location": [
+    40.71455,
+    -74.00714
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.00714,
+    40.71455
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Memorial Sloan Kettering Cancer Center",
+    "City": "New York",
+    "State": "New York",
+    "Zip": "10007",
+    "Country": "USA",
+    "Latitude": "40.71455",
+    "Longitude": "-74.00714",
+    "Location": [
+    40.71455,
+    -74.00714
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -74.00714,
+    40.71455
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Mayo Clinic",
+    "City": "Rochester",
+    "State": "Minnesota",
+    "Zip": "55904",
+    "Country": "USA",
+    "Latitude": "44.01932",
+    "Longitude": "-92.45942",
+    "Location": [
+    44.01932,
+    -92.45942
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -92.45942,
+    44.01932
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "University Of Rochester",
+    "City": "Rochester",
+    "State": "New York",
+    "Zip": "14614",
+    "Country": "USA",
+    "Latitude": "43.1558",
+    "Longitude": "-77.61632",
+    "Location": [
+    43.1558,
+    -77.61632
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -77.61632,
+    43.1558
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Washington University School Of Medicine",
+    "City": "Saint Louis",
+    "State": "Missouri",
+    "Zip": "63103",
+    "Country": "USA",
+    "Latitude": "38.62775",
+    "Longitude": "-90.19956",
+    "Location": [
+    38.62775,
+    -90.19956
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -90.19956,
+    38.62775
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "Disclose",
+    "recruiting": "Recruiting",
+    "FacilityName": "Seattle Cancer Care Alliance",
+    "City": "Seattle",
+    "State": "Washington",
+    "Zip": "98104",
+    "Country": "USA",
+    "Latitude": "47.60358",
+    "Longitude": "-122.32945",
+    "Location": [
+    47.60358,
+    -122.32945
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.32945,
+    47.60358
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "study": "NCT02581631",
+    "platform": "BMS Study Connect",
+    "recruiting": "Recruiting",
+    "FacilityName": "Stephenson Cancer Center",
+    "City": "Oklahoma City",
+    "State": "Oklahoma",
+    "Zip": "73102",
+    "Country": "USA",
+    "Latitude": "35.47204",
+    "Longitude": "-97.52107",
+    "Location": [
+    35.47204,
+    -97.52107
+    ]
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -97.52107,
+    35.47204
+    ]
+    }
+    }
+    ]
+    }
